@@ -103,10 +103,13 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
+# Get the directory where this script is located (works on Streamlit Cloud)
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+
 @st.cache_data
 def load_data():
     """Load all data from CSV files"""
-    data_dir = "data"
+    data_dir = os.path.join(SCRIPT_DIR, "data")
     
     if not os.path.exists(data_dir):
         st.error("Data folder not found. Please run data_generator.py first.")
