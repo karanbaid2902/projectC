@@ -103,17 +103,22 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
+from pathlib import Path
+
 # Get the directory where this script is located (works on Streamlit Cloud)
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+SCRIPT_DIR = Path(__file__).parent.resolve()
 
 @st.cache_data
 def load_data():
     """Load all data from CSV files"""
-    data_dir = os.path.join(SCRIPT_DIR, "data")
+    data_dir = SCRIPT_DIR / "data"
     
-    if not os.path.exists(data_dir):
-        st.error("Data folder not found. Please run data_generator.py first.")
+    if not data_dir.exists():
+        st.error(f"Data folder not found at: {data_dir}")
+        st.error("Please make sure the 'data' folder with CSV files is pushed to your GitHub repository.")
         st.stop()
+    
+    data_dir = str(data_dir)
     
     customers = pd.read_csv(f'{data_dir}/customers.csv', parse_dates=['registration_date'])
     restaurants = pd.read_csv(f'{data_dir}/restaurants.csv')

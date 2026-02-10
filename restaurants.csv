@@ -1,0 +1,201 @@
+restaurant_id,restaurant_name,cuisine_type,tier,zone,avg_prep_time_mins,rating,is_active
+REST0001,Restaurant_1,Healthy,QSR,Business Bay (Dubai),19,4.2,True
+REST0002,Restaurant_2,Western,QSR,Khalidiya (Abu Dhabi),5,3.7,True
+REST0003,Restaurant_3,Indian,Premium,Khalidiya (Abu Dhabi),40,3.4,True
+REST0004,Restaurant_4,Asian,Casual,Corniche (Abu Dhabi),16,4.3,True
+REST0005,Restaurant_5,Western,QSR,Yas Island (Abu Dhabi),16,3.2,True
+REST0006,Restaurant_6,Asian,Casual,Business Bay (Dubai),25,3.9,True
+REST0007,Restaurant_7,Healthy,QSR,Downtown (Dubai),16,4.1,True
+REST0008,Restaurant_8,Asian,Premium,Yas Island (Abu Dhabi),40,5.0,True
+REST0009,Restaurant_9,Western,Casual,Al Reem (Abu Dhabi),18,3.2,True
+REST0010,Restaurant_10,Healthy,Fine Dining,Business Bay (Dubai),45,4.7,True
+REST0011,Restaurant_11,Western,Fine Dining,Yas Island (Abu Dhabi),53,3.7,True
+REST0012,Restaurant_12,Asian,Premium,JLT (Dubai),36,4.3,True
+REST0013,Restaurant_13,Asian,Casual,Yas Island (Abu Dhabi),27,3.5,True
+REST0014,Restaurant_14,Asian,Premium,Al Nuaimiya (Ajman),39,3.3,True
+REST0015,Restaurant_15,Emirati,Casual,Yas Island (Abu Dhabi),25,4.5,True
+REST0016,Restaurant_16,Emirati,Casual,Corniche (Abu Dhabi),28,4.9,True
+REST0017,Restaurant_17,Healthy,Casual,Deira (Dubai),19,4.2,True
+REST0018,Restaurant_18,Healthy,QSR,Al Qasimia (Sharjah),18,4.9,True
+REST0019,Restaurant_19,Healthy,QSR,Al Nahda (Sharjah),20,4.4,False
+REST0020,Restaurant_20,Healthy,QSR,Al Rashidiya (Ajman),17,4.1,True
+REST0021,Restaurant_21,Indian,Premium,Khalidiya (Abu Dhabi),36,4.4,True
+REST0022,Restaurant_22,Indian,Casual,JLT (Dubai),19,3.6,True
+REST0023,Restaurant_23,Western,QSR,Khalidiya (Abu Dhabi),12,4.4,True
+REST0024,Restaurant_24,Indian,QSR,Khalidiya (Abu Dhabi),8,4.6,True
+REST0025,Restaurant_25,Indian,Premium,Deira (Dubai),39,4.4,True
+REST0026,Restaurant_26,Western,Casual,Al Nuaimiya (Ajman),30,4.7,True
+REST0027,Restaurant_27,Asian,Casual,Al Rashidiya (Ajman),18,4.4,True
+REST0028,Restaurant_28,Emirati,Fine Dining,Khalidiya (Abu Dhabi),55,4.7,True
+REST0029,Restaurant_29,Emirati,Premium,JLT (Dubai),37,4.4,True
+REST0030,Restaurant_30,Western,Casual,Al Majaz (Sharjah),18,3.2,True
+REST0031,Restaurant_31,Healthy,Premium,Al Majaz (Sharjah),28,4.4,True
+REST0032,Restaurant_32,Indian,Casual,Al Rashidiya (Ajman),22,4.6,True
+REST0033,Restaurant_33,Emirati,QSR,Khalidiya (Abu Dhabi),20,4.5,True
+REST0034,Restaurant_34,Western,QSR,JLT (Dubai),19,4.4,True
+REST0035,Restaurant_35,Indian,Casual,Downtown (Dubai),24,3.1,True
+REST0036,Restaurant_36,Asian,Casual,Business Bay (Dubai),20,4.1,True
+REST0037,Restaurant_37,Asian,Casual,Downtown (Dubai),19,3.3,True
+REST0038,Restaurant_38,Indian,QSR,Marina (Dubai),11,4.2,True
+REST0039,Restaurant_39,Asian,QSR,Al Qasimia (Sharjah),17,4.0,True
+REST0040,Restaurant_40,Indian,Fine Dining,Al Reem (Abu Dhabi),50,4.0,True
+REST0041,Restaurant_41,Indian,Premium,Al Nuaimiya (Ajman),40,3.4,True
+REST0042,Restaurant_42,Emirati,QSR,JLT (Dubai),12,3.6,True
+REST0043,Restaurant_43,Emirati,QSR,Al Nahda (Sharjah),11,3.7,True
+REST0044,Restaurant_44,Emirati,Premium,Al Nuaimiya (Ajman),32,4.5,True
+REST0045,Restaurant_45,Emirati,QSR,JLT (Dubai),7,3.5,False
+REST0046,Restaurant_46,Healthy,Premium,Al Nuaimiya (Ajman),27,4.9,True
+REST0047,Restaurant_47,Indian,Casual,Deira (Dubai),23,4.6,True
+REST0048,Restaurant_48,Indian,Fine Dining,Deira (Dubai),54,3.4,False
+REST0049,Restaurant_49,Asian,QSR,JBR (Dubai),11,4.5,True
+REST0050,Restaurant_50,Indian,Premium,Yas Island (Abu Dhabi),34,3.1,True
+REST0051,Restaurant_51,Healthy,Casual,Khalidiya (Abu Dhabi),29,3.2,True
+REST0052,Restaurant_52,Emirati,QSR,Deira (Dubai),20,3.2,True
+REST0053,Restaurant_53,Healthy,QSR,Al Reem (Abu Dhabi),11,4.2,True
+REST0054,Restaurant_54,Western,QSR,Al Nuaimiya (Ajman),8,4.4,True
+REST0055,Restaurant_55,Healthy,Casual,Al Majaz (Sharjah),29,5.0,True
+REST0056,Restaurant_56,Asian,Casual,Khalidiya (Abu Dhabi),20,3.7,True
+REST0057,Restaurant_57,Asian,QSR,Business Bay (Dubai),12,3.7,True
+REST0058,Restaurant_58,Western,Casual,JBR (Dubai),20,4.0,True
+REST0059,Restaurant_59,Western,Fine Dining,Khalidiya (Abu Dhabi),45,3.4,True
+REST0060,Restaurant_60,Emirati,Casual,Al Rashidiya (Ajman),29,3.7,True
+REST0061,Restaurant_61,Indian,Premium,Al Majaz (Sharjah),28,4.5,True
+REST0062,Restaurant_62,Asian,Casual,Al Majaz (Sharjah),30,3.2,True
+REST0063,Restaurant_63,Healthy,Casual,Al Nahda (Sharjah),19,3.6,True
+REST0064,Restaurant_64,Indian,QSR,Al Nuaimiya (Ajman),10,4.2,True
+REST0065,Restaurant_65,Western,Fine Dining,Al Nahda (Sharjah),53,4.6,True
+REST0066,Restaurant_66,Western,Fine Dining,Al Rashidiya (Ajman),49,3.7,True
+REST0067,Restaurant_67,Asian,Casual,Khalidiya (Abu Dhabi),24,3.9,True
+REST0068,Restaurant_68,Western,Casual,Marina (Dubai),28,3.7,True
+REST0069,Restaurant_69,Asian,Fine Dining,Marina (Dubai),46,3.4,True
+REST0070,Restaurant_70,Asian,QSR,Marina (Dubai),15,3.9,True
+REST0071,Restaurant_71,Indian,Casual,Al Majaz (Sharjah),21,4.2,True
+REST0072,Restaurant_72,Emirati,QSR,Deira (Dubai),10,3.7,True
+REST0073,Restaurant_73,Western,Casual,Marina (Dubai),27,4.4,True
+REST0074,Restaurant_74,Asian,Casual,Al Reem (Abu Dhabi),27,3.1,True
+REST0075,Restaurant_75,Healthy,QSR,JLT (Dubai),19,4.8,True
+REST0076,Restaurant_76,Emirati,QSR,JLT (Dubai),18,4.6,True
+REST0077,Restaurant_77,Healthy,Casual,Deira (Dubai),17,3.9,True
+REST0078,Restaurant_78,Asian,Casual,Yas Island (Abu Dhabi),24,4.4,True
+REST0079,Restaurant_79,Asian,Premium,Al Nuaimiya (Ajman),36,4.8,True
+REST0080,Restaurant_80,Indian,Premium,JLT (Dubai),39,3.5,True
+REST0081,Restaurant_81,Asian,QSR,Business Bay (Dubai),5,3.3,True
+REST0082,Restaurant_82,Western,Casual,Al Majaz (Sharjah),16,4.7,True
+REST0083,Restaurant_83,Asian,Fine Dining,Marina (Dubai),53,5.0,False
+REST0084,Restaurant_84,Asian,Premium,Al Majaz (Sharjah),40,3.6,True
+REST0085,Restaurant_85,Emirati,QSR,Al Reem (Abu Dhabi),7,4.9,True
+REST0086,Restaurant_86,Healthy,Casual,Al Nuaimiya (Ajman),17,4.1,True
+REST0087,Restaurant_87,Indian,Casual,Al Majaz (Sharjah),17,4.5,True
+REST0088,Restaurant_88,Western,QSR,Al Rashidiya (Ajman),9,4.3,True
+REST0089,Restaurant_89,Asian,Casual,Khalidiya (Abu Dhabi),28,4.8,True
+REST0090,Restaurant_90,Healthy,QSR,Al Nuaimiya (Ajman),17,3.0,True
+REST0091,Restaurant_91,Asian,Casual,Al Nuaimiya (Ajman),22,4.2,True
+REST0092,Restaurant_92,Indian,Casual,Al Majaz (Sharjah),26,4.8,True
+REST0093,Restaurant_93,Indian,Casual,Al Majaz (Sharjah),19,3.4,True
+REST0094,Restaurant_94,Healthy,QSR,Al Nuaimiya (Ajman),6,4.6,True
+REST0095,Restaurant_95,Asian,Fine Dining,Al Nuaimiya (Ajman),50,4.9,True
+REST0096,Restaurant_96,Indian,QSR,Corniche (Abu Dhabi),13,3.5,True
+REST0097,Restaurant_97,Emirati,Premium,Downtown (Dubai),39,3.2,True
+REST0098,Restaurant_98,Indian,QSR,Corniche (Abu Dhabi),6,3.9,True
+REST0099,Restaurant_99,Western,QSR,Al Reem (Abu Dhabi),8,3.2,True
+REST0100,Restaurant_100,Healthy,Premium,JBR (Dubai),30,4.5,True
+REST0101,Restaurant_101,Healthy,Casual,JLT (Dubai),25,3.8,True
+REST0102,Restaurant_102,Healthy,QSR,JLT (Dubai),20,3.5,True
+REST0103,Restaurant_103,Emirati,Casual,Corniche (Abu Dhabi),28,3.8,True
+REST0104,Restaurant_104,Asian,QSR,Al Nuaimiya (Ajman),7,3.9,True
+REST0105,Restaurant_105,Emirati,QSR,Al Nahda (Sharjah),17,4.8,True
+REST0106,Restaurant_106,Asian,Fine Dining,Marina (Dubai),44,4.7,True
+REST0107,Restaurant_107,Healthy,QSR,Downtown (Dubai),9,4.4,True
+REST0108,Restaurant_108,Indian,QSR,Al Nuaimiya (Ajman),14,3.7,True
+REST0109,Restaurant_109,Indian,QSR,Downtown (Dubai),9,4.5,True
+REST0110,Restaurant_110,Emirati,QSR,Al Majaz (Sharjah),10,3.1,True
+REST0111,Restaurant_111,Asian,Casual,Al Rashidiya (Ajman),23,4.2,True
+REST0112,Restaurant_112,Emirati,QSR,Al Rashidiya (Ajman),20,3.1,True
+REST0113,Restaurant_113,Emirati,Premium,Yas Island (Abu Dhabi),37,4.5,True
+REST0114,Restaurant_114,Emirati,QSR,Marina (Dubai),16,4.8,True
+REST0115,Restaurant_115,Emirati,Fine Dining,Khalidiya (Abu Dhabi),54,5.0,True
+REST0116,Restaurant_116,Indian,Casual,Al Nuaimiya (Ajman),15,3.6,True
+REST0117,Restaurant_117,Indian,Premium,JLT (Dubai),36,4.9,True
+REST0118,Restaurant_118,Western,QSR,Al Qasimia (Sharjah),11,3.3,True
+REST0119,Restaurant_119,Indian,Premium,Deira (Dubai),27,4.5,True
+REST0120,Restaurant_120,Healthy,QSR,JBR (Dubai),12,3.5,True
+REST0121,Restaurant_121,Asian,Casual,Al Qasimia (Sharjah),29,4.3,True
+REST0122,Restaurant_122,Asian,Casual,Al Majaz (Sharjah),19,3.7,True
+REST0123,Restaurant_123,Emirati,QSR,Al Qasimia (Sharjah),17,4.3,True
+REST0124,Restaurant_124,Emirati,Fine Dining,Downtown (Dubai),41,4.7,True
+REST0125,Restaurant_125,Emirati,QSR,Al Reem (Abu Dhabi),20,4.0,True
+REST0126,Restaurant_126,Healthy,Casual,Corniche (Abu Dhabi),29,5.0,True
+REST0127,Restaurant_127,Western,QSR,JBR (Dubai),13,4.3,True
+REST0128,Restaurant_128,Indian,QSR,Business Bay (Dubai),15,4.6,True
+REST0129,Restaurant_129,Emirati,Casual,Al Nahda (Sharjah),25,4.5,True
+REST0130,Restaurant_130,Western,Premium,Al Nahda (Sharjah),25,4.9,True
+REST0131,Restaurant_131,Western,QSR,Al Nuaimiya (Ajman),8,3.2,True
+REST0132,Restaurant_132,Asian,QSR,Business Bay (Dubai),19,3.9,False
+REST0133,Restaurant_133,Healthy,QSR,Downtown (Dubai),17,4.6,True
+REST0134,Restaurant_134,Indian,Casual,Al Nuaimiya (Ajman),22,4.6,True
+REST0135,Restaurant_135,Healthy,Casual,Al Reem (Abu Dhabi),19,4.1,True
+REST0136,Restaurant_136,Healthy,QSR,JLT (Dubai),12,4.4,False
+REST0137,Restaurant_137,Indian,QSR,JBR (Dubai),10,4.3,True
+REST0138,Restaurant_138,Indian,QSR,Yas Island (Abu Dhabi),18,4.7,True
+REST0139,Restaurant_139,Western,Fine Dining,Business Bay (Dubai),52,4.8,False
+REST0140,Restaurant_140,Western,Premium,JLT (Dubai),29,4.4,True
+REST0141,Restaurant_141,Healthy,QSR,Al Nahda (Sharjah),14,3.4,True
+REST0142,Restaurant_142,Emirati,Casual,Marina (Dubai),28,3.3,True
+REST0143,Restaurant_143,Indian,QSR,Corniche (Abu Dhabi),10,4.3,True
+REST0144,Restaurant_144,Asian,QSR,JBR (Dubai),12,4.9,True
+REST0145,Restaurant_145,Emirati,Premium,Al Qasimia (Sharjah),29,3.4,True
+REST0146,Restaurant_146,Asian,QSR,Marina (Dubai),8,4.0,True
+REST0147,Restaurant_147,Healthy,Premium,Khalidiya (Abu Dhabi),32,4.3,True
+REST0148,Restaurant_148,Healthy,QSR,Khalidiya (Abu Dhabi),9,3.1,False
+REST0149,Restaurant_149,Asian,Premium,Al Rashidiya (Ajman),33,4.9,True
+REST0150,Restaurant_150,Asian,Premium,JBR (Dubai),39,3.9,True
+REST0151,Restaurant_151,Western,Casual,Al Majaz (Sharjah),24,3.4,True
+REST0152,Restaurant_152,Healthy,Fine Dining,Al Reem (Abu Dhabi),51,3.5,True
+REST0153,Restaurant_153,Western,Casual,Corniche (Abu Dhabi),16,4.3,True
+REST0154,Restaurant_154,Asian,QSR,Al Rashidiya (Ajman),13,4.3,True
+REST0155,Restaurant_155,Asian,Casual,JLT (Dubai),17,3.0,True
+REST0156,Restaurant_156,Healthy,Casual,Khalidiya (Abu Dhabi),22,4.2,True
+REST0157,Restaurant_157,Western,QSR,Yas Island (Abu Dhabi),17,4.2,True
+REST0158,Restaurant_158,Emirati,Casual,Al Reem (Abu Dhabi),18,4.2,True
+REST0159,Restaurant_159,Healthy,Fine Dining,JBR (Dubai),43,4.9,True
+REST0160,Restaurant_160,Healthy,Casual,Corniche (Abu Dhabi),27,4.4,True
+REST0161,Restaurant_161,Western,Casual,Al Nuaimiya (Ajman),29,4.1,True
+REST0162,Restaurant_162,Western,Fine Dining,Al Nahda (Sharjah),40,3.4,True
+REST0163,Restaurant_163,Asian,Casual,JBR (Dubai),24,4.8,True
+REST0164,Restaurant_164,Asian,Casual,JLT (Dubai),26,3.7,False
+REST0165,Restaurant_165,Emirati,QSR,JLT (Dubai),19,4.4,True
+REST0166,Restaurant_166,Indian,Premium,Deira (Dubai),35,4.5,True
+REST0167,Restaurant_167,Indian,Premium,Al Nuaimiya (Ajman),40,4.7,True
+REST0168,Restaurant_168,Indian,Casual,JLT (Dubai),24,3.2,True
+REST0169,Restaurant_169,Asian,Casual,Al Reem (Abu Dhabi),30,4.3,True
+REST0170,Restaurant_170,Western,QSR,JLT (Dubai),15,4.6,True
+REST0171,Restaurant_171,Indian,Premium,JLT (Dubai),25,3.2,True
+REST0172,Restaurant_172,Healthy,Premium,Business Bay (Dubai),30,3.8,True
+REST0173,Restaurant_173,Emirati,QSR,Al Qasimia (Sharjah),17,4.7,True
+REST0174,Restaurant_174,Asian,QSR,Corniche (Abu Dhabi),9,4.8,True
+REST0175,Restaurant_175,Asian,Fine Dining,Al Reem (Abu Dhabi),42,3.6,True
+REST0176,Restaurant_176,Indian,Premium,Yas Island (Abu Dhabi),29,4.3,True
+REST0177,Restaurant_177,Indian,Casual,Deira (Dubai),22,3.9,True
+REST0178,Restaurant_178,Asian,QSR,Deira (Dubai),5,4.7,True
+REST0179,Restaurant_179,Healthy,Casual,Yas Island (Abu Dhabi),21,3.8,True
+REST0180,Restaurant_180,Healthy,Casual,Al Rashidiya (Ajman),27,4.5,True
+REST0181,Restaurant_181,Asian,Fine Dining,Corniche (Abu Dhabi),51,3.7,True
+REST0182,Restaurant_182,Healthy,QSR,JLT (Dubai),7,4.9,True
+REST0183,Restaurant_183,Indian,Premium,Al Majaz (Sharjah),29,3.2,True
+REST0184,Restaurant_184,Western,Fine Dining,Yas Island (Abu Dhabi),50,3.2,True
+REST0185,Restaurant_185,Asian,QSR,Al Qasimia (Sharjah),12,3.9,True
+REST0186,Restaurant_186,Healthy,QSR,Khalidiya (Abu Dhabi),20,4.2,True
+REST0187,Restaurant_187,Emirati,Fine Dining,Yas Island (Abu Dhabi),54,4.1,True
+REST0188,Restaurant_188,Indian,QSR,JBR (Dubai),16,3.1,True
+REST0189,Restaurant_189,Emirati,Casual,Al Qasimia (Sharjah),30,3.9,True
+REST0190,Restaurant_190,Western,QSR,Deira (Dubai),19,3.6,True
+REST0191,Restaurant_191,Indian,QSR,Al Reem (Abu Dhabi),18,3.3,True
+REST0192,Restaurant_192,Asian,Casual,Al Nuaimiya (Ajman),15,4.9,True
+REST0193,Restaurant_193,Healthy,Premium,JBR (Dubai),27,4.2,True
+REST0194,Restaurant_194,Indian,Casual,Deira (Dubai),20,4.7,True
+REST0195,Restaurant_195,Emirati,Premium,JLT (Dubai),27,3.2,True
+REST0196,Restaurant_196,Western,Casual,Al Majaz (Sharjah),28,3.8,True
+REST0197,Restaurant_197,Indian,Premium,JBR (Dubai),34,3.7,True
+REST0198,Restaurant_198,Western,Premium,JBR (Dubai),30,3.5,True
+REST0199,Restaurant_199,Emirati,QSR,JLT (Dubai),19,4.5,True
+REST0200,Restaurant_200,Healthy,QSR,Marina (Dubai),6,4.4,True

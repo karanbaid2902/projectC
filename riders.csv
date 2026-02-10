@@ -1,0 +1,801 @@
+rider_id,rider_name,primary_zone,vehicle_type,rating,join_date,is_active
+RIDER0001,Rider_1,Marina (Dubai),Car,4.3,2023-01-05,True
+RIDER0002,Rider_2,Business Bay (Dubai),Bike,4.9,2024-07-30,True
+RIDER0003,Rider_3,JBR (Dubai),Car,3.8,2024-09-27,True
+RIDER0004,Rider_4,Yas Island (Abu Dhabi),Bike,4.0,2024-11-30,False
+RIDER0005,Rider_5,Al Reem (Abu Dhabi),Bike,3.8,2024-03-27,True
+RIDER0006,Rider_6,Al Rashidiya (Ajman),Motorcycle,4.3,2024-03-31,True
+RIDER0007,Rider_7,Marina (Dubai),Car,4.8,2023-05-04,True
+RIDER0008,Rider_8,Business Bay (Dubai),Car,3.7,2024-11-30,True
+RIDER0009,Rider_9,Yas Island (Abu Dhabi),Bike,3.6,2023-07-17,True
+RIDER0010,Rider_10,Al Reem (Abu Dhabi),Car,4.9,2024-11-05,True
+RIDER0011,Rider_11,Corniche (Abu Dhabi),Motorcycle,4.9,2024-11-15,True
+RIDER0012,Rider_12,JLT (Dubai),Bike,3.7,2024-05-17,True
+RIDER0013,Rider_13,Corniche (Abu Dhabi),Bike,3.6,2024-05-06,True
+RIDER0014,Rider_14,Al Rashidiya (Ajman),Motorcycle,4.6,2024-08-28,True
+RIDER0015,Rider_15,Yas Island (Abu Dhabi),Bike,4.5,2024-06-23,True
+RIDER0016,Rider_16,Al Qasimia (Sharjah),Motorcycle,4.1,2024-07-13,True
+RIDER0017,Rider_17,Business Bay (Dubai),Bike,4.2,2023-07-22,True
+RIDER0018,Rider_18,Al Nahda (Sharjah),Motorcycle,4.2,2023-03-26,True
+RIDER0019,Rider_19,Khalidiya (Abu Dhabi),Bike,4.3,2024-09-16,True
+RIDER0020,Rider_20,Khalidiya (Abu Dhabi),Car,4.7,2024-12-01,True
+RIDER0021,Rider_21,Yas Island (Abu Dhabi),Motorcycle,3.8,2023-04-02,True
+RIDER0022,Rider_22,Al Reem (Abu Dhabi),Motorcycle,4.4,2023-06-27,True
+RIDER0023,Rider_23,Al Qasimia (Sharjah),Bike,3.5,2023-11-07,True
+RIDER0024,Rider_24,JLT (Dubai),Car,3.6,2024-12-01,True
+RIDER0025,Rider_25,Al Qasimia (Sharjah),Motorcycle,4.8,2024-06-04,True
+RIDER0026,Rider_26,Al Qasimia (Sharjah),Bike,3.8,2024-04-13,False
+RIDER0027,Rider_27,Al Rashidiya (Ajman),Bike,4.0,2023-07-28,True
+RIDER0028,Rider_28,Al Reem (Abu Dhabi),Motorcycle,3.5,2024-01-26,True
+RIDER0029,Rider_29,Al Qasimia (Sharjah),Bike,3.9,2023-09-04,True
+RIDER0030,Rider_30,Al Rashidiya (Ajman),Motorcycle,5.0,2024-02-04,True
+RIDER0031,Rider_31,JLT (Dubai),Car,4.1,2023-06-09,True
+RIDER0032,Rider_32,Deira (Dubai),Motorcycle,3.9,2024-03-08,True
+RIDER0033,Rider_33,Al Qasimia (Sharjah),Motorcycle,4.4,2023-07-29,False
+RIDER0034,Rider_34,Al Nahda (Sharjah),Motorcycle,3.9,2024-12-07,True
+RIDER0035,Rider_35,Al Nuaimiya (Ajman),Motorcycle,3.9,2023-07-14,True
+RIDER0036,Rider_36,Khalidiya (Abu Dhabi),Bike,3.5,2024-12-10,True
+RIDER0037,Rider_37,Al Qasimia (Sharjah),Motorcycle,3.7,2024-12-07,True
+RIDER0038,Rider_38,Al Nahda (Sharjah),Bike,3.7,2024-05-15,True
+RIDER0039,Rider_39,Yas Island (Abu Dhabi),Bike,4.9,2023-09-20,False
+RIDER0040,Rider_40,Al Qasimia (Sharjah),Car,4.1,2024-07-03,True
+RIDER0041,Rider_41,Al Nuaimiya (Ajman),Motorcycle,3.7,2023-05-03,True
+RIDER0042,Rider_42,Al Rashidiya (Ajman),Motorcycle,4.9,2024-07-22,True
+RIDER0043,Rider_43,Deira (Dubai),Bike,5.0,2024-04-25,True
+RIDER0044,Rider_44,JBR (Dubai),Bike,4.7,2023-07-08,True
+RIDER0045,Rider_45,Al Qasimia (Sharjah),Motorcycle,3.9,2024-09-22,True
+RIDER0046,Rider_46,Al Qasimia (Sharjah),Bike,4.4,2023-02-12,True
+RIDER0047,Rider_47,Yas Island (Abu Dhabi),Motorcycle,3.8,2023-08-04,True
+RIDER0048,Rider_48,Marina (Dubai),Motorcycle,4.9,2023-12-16,True
+RIDER0049,Rider_49,Business Bay (Dubai),Car,4.0,2023-07-25,False
+RIDER0050,Rider_50,Marina (Dubai),Bike,3.7,2023-10-26,True
+RIDER0051,Rider_51,Deira (Dubai),Bike,3.8,2024-11-04,True
+RIDER0052,Rider_52,Marina (Dubai),Motorcycle,3.6,2023-09-09,True
+RIDER0053,Rider_53,Business Bay (Dubai),Motorcycle,3.7,2023-11-22,True
+RIDER0054,Rider_54,Al Nahda (Sharjah),Bike,4.3,2023-01-18,True
+RIDER0055,Rider_55,Downtown (Dubai),Motorcycle,4.0,2023-02-09,True
+RIDER0056,Rider_56,JBR (Dubai),Motorcycle,3.5,2023-01-04,True
+RIDER0057,Rider_57,Al Nuaimiya (Ajman),Bike,4.4,2023-08-18,True
+RIDER0058,Rider_58,Marina (Dubai),Motorcycle,3.6,2024-10-26,True
+RIDER0059,Rider_59,Khalidiya (Abu Dhabi),Car,4.5,2023-10-17,True
+RIDER0060,Rider_60,Corniche (Abu Dhabi),Motorcycle,4.6,2024-11-30,True
+RIDER0061,Rider_61,Business Bay (Dubai),Bike,5.0,2024-04-10,True
+RIDER0062,Rider_62,Al Rashidiya (Ajman),Bike,4.3,2024-01-04,True
+RIDER0063,Rider_63,Business Bay (Dubai),Motorcycle,3.8,2024-02-02,False
+RIDER0064,Rider_64,Al Rashidiya (Ajman),Bike,4.6,2024-03-18,True
+RIDER0065,Rider_65,Downtown (Dubai),Bike,4.1,2024-07-08,True
+RIDER0066,Rider_66,Corniche (Abu Dhabi),Bike,4.4,2023-08-02,False
+RIDER0067,Rider_67,Corniche (Abu Dhabi),Motorcycle,4.2,2024-04-08,True
+RIDER0068,Rider_68,Corniche (Abu Dhabi),Motorcycle,4.0,2024-11-12,True
+RIDER0069,Rider_69,Al Qasimia (Sharjah),Motorcycle,3.9,2024-12-30,True
+RIDER0070,Rider_70,Deira (Dubai),Car,4.6,2024-09-25,True
+RIDER0071,Rider_71,Khalidiya (Abu Dhabi),Motorcycle,4.6,2024-02-23,True
+RIDER0072,Rider_72,Business Bay (Dubai),Bike,3.7,2023-04-22,True
+RIDER0073,Rider_73,Khalidiya (Abu Dhabi),Bike,4.7,2024-09-30,True
+RIDER0074,Rider_74,Deira (Dubai),Bike,4.3,2023-06-10,True
+RIDER0075,Rider_75,Al Rashidiya (Ajman),Motorcycle,3.8,2024-03-29,True
+RIDER0076,Rider_76,Deira (Dubai),Bike,4.5,2023-10-07,False
+RIDER0077,Rider_77,Al Nahda (Sharjah),Motorcycle,3.7,2024-02-16,True
+RIDER0078,Rider_78,Al Majaz (Sharjah),Bike,4.1,2024-04-24,True
+RIDER0079,Rider_79,Al Qasimia (Sharjah),Bike,4.9,2023-11-20,True
+RIDER0080,Rider_80,Al Majaz (Sharjah),Motorcycle,4.6,2023-02-06,True
+RIDER0081,Rider_81,Al Majaz (Sharjah),Bike,3.5,2023-02-24,True
+RIDER0082,Rider_82,JBR (Dubai),Bike,4.9,2023-07-27,True
+RIDER0083,Rider_83,Deira (Dubai),Bike,3.6,2024-09-30,False
+RIDER0084,Rider_84,Al Reem (Abu Dhabi),Car,4.2,2023-12-13,True
+RIDER0085,Rider_85,Business Bay (Dubai),Bike,4.7,2023-06-13,False
+RIDER0086,Rider_86,Downtown (Dubai),Bike,3.7,2024-09-25,True
+RIDER0087,Rider_87,Yas Island (Abu Dhabi),Motorcycle,4.2,2023-10-15,True
+RIDER0088,Rider_88,Al Rashidiya (Ajman),Bike,3.7,2023-05-31,False
+RIDER0089,Rider_89,JBR (Dubai),Motorcycle,3.7,2024-01-26,True
+RIDER0090,Rider_90,Khalidiya (Abu Dhabi),Bike,3.5,2024-12-05,False
+RIDER0091,Rider_91,JLT (Dubai),Car,4.4,2023-07-06,True
+RIDER0092,Rider_92,Marina (Dubai),Car,4.9,2024-08-03,True
+RIDER0093,Rider_93,JLT (Dubai),Car,4.8,2023-03-12,True
+RIDER0094,Rider_94,Al Reem (Abu Dhabi),Bike,4.1,2023-06-03,True
+RIDER0095,Rider_95,Al Rashidiya (Ajman),Motorcycle,4.5,2024-10-11,True
+RIDER0096,Rider_96,Al Qasimia (Sharjah),Motorcycle,4.7,2023-12-30,True
+RIDER0097,Rider_97,Al Majaz (Sharjah),Motorcycle,4.4,2024-08-27,True
+RIDER0098,Rider_98,Downtown (Dubai),Bike,3.9,2024-06-09,True
+RIDER0099,Rider_99,Yas Island (Abu Dhabi),Car,3.5,2023-11-23,False
+RIDER0100,Rider_100,Marina (Dubai),Motorcycle,4.6,2023-09-27,True
+RIDER0101,Rider_101,Corniche (Abu Dhabi),Bike,3.9,2024-11-03,True
+RIDER0102,Rider_102,JBR (Dubai),Bike,3.5,2024-10-01,True
+RIDER0103,Rider_103,Al Reem (Abu Dhabi),Bike,4.1,2024-04-26,True
+RIDER0104,Rider_104,Marina (Dubai),Motorcycle,3.9,2024-01-20,True
+RIDER0105,Rider_105,Al Majaz (Sharjah),Motorcycle,5.0,2024-03-10,True
+RIDER0106,Rider_106,JLT (Dubai),Bike,4.0,2023-09-25,True
+RIDER0107,Rider_107,Khalidiya (Abu Dhabi),Bike,3.6,2024-04-05,False
+RIDER0108,Rider_108,JBR (Dubai),Motorcycle,4.9,2024-06-05,True
+RIDER0109,Rider_109,Marina (Dubai),Motorcycle,4.7,2023-04-20,True
+RIDER0110,Rider_110,Downtown (Dubai),Bike,3.7,2023-08-31,True
+RIDER0111,Rider_111,Al Nuaimiya (Ajman),Bike,4.6,2023-12-16,True
+RIDER0112,Rider_112,Al Reem (Abu Dhabi),Bike,4.4,2024-04-16,True
+RIDER0113,Rider_113,JLT (Dubai),Motorcycle,3.7,2023-05-05,True
+RIDER0114,Rider_114,Downtown (Dubai),Bike,4.6,2023-03-25,True
+RIDER0115,Rider_115,Al Qasimia (Sharjah),Car,3.5,2024-12-03,True
+RIDER0116,Rider_116,Marina (Dubai),Motorcycle,4.1,2024-10-02,True
+RIDER0117,Rider_117,Khalidiya (Abu Dhabi),Motorcycle,4.6,2024-05-22,True
+RIDER0118,Rider_118,Downtown (Dubai),Motorcycle,4.6,2024-08-29,True
+RIDER0119,Rider_119,Marina (Dubai),Motorcycle,4.3,2023-03-23,True
+RIDER0120,Rider_120,Deira (Dubai),Bike,4.8,2024-08-12,False
+RIDER0121,Rider_121,Al Qasimia (Sharjah),Bike,4.6,2023-07-12,True
+RIDER0122,Rider_122,JLT (Dubai),Motorcycle,3.8,2024-02-09,True
+RIDER0123,Rider_123,Al Reem (Abu Dhabi),Bike,4.1,2024-10-17,True
+RIDER0124,Rider_124,Corniche (Abu Dhabi),Bike,4.0,2023-09-04,True
+RIDER0125,Rider_125,Al Nahda (Sharjah),Motorcycle,4.5,2023-10-16,True
+RIDER0126,Rider_126,JBR (Dubai),Bike,4.2,2023-03-03,True
+RIDER0127,Rider_127,Al Nuaimiya (Ajman),Motorcycle,4.5,2024-04-01,True
+RIDER0128,Rider_128,Al Qasimia (Sharjah),Motorcycle,4.0,2024-01-06,True
+RIDER0129,Rider_129,Al Reem (Abu Dhabi),Motorcycle,3.6,2023-09-26,True
+RIDER0130,Rider_130,JLT (Dubai),Motorcycle,4.6,2024-05-06,True
+RIDER0131,Rider_131,Business Bay (Dubai),Motorcycle,4.0,2023-07-14,True
+RIDER0132,Rider_132,Downtown (Dubai),Bike,4.0,2024-04-21,True
+RIDER0133,Rider_133,JLT (Dubai),Car,4.8,2024-02-17,True
+RIDER0134,Rider_134,Al Rashidiya (Ajman),Motorcycle,3.7,2024-01-30,True
+RIDER0135,Rider_135,Marina (Dubai),Motorcycle,4.7,2024-01-26,False
+RIDER0136,Rider_136,Al Nahda (Sharjah),Bike,4.0,2024-03-20,True
+RIDER0137,Rider_137,Al Nahda (Sharjah),Car,3.7,2023-07-08,True
+RIDER0138,Rider_138,Marina (Dubai),Bike,3.7,2023-12-12,True
+RIDER0139,Rider_139,Khalidiya (Abu Dhabi),Bike,4.0,2024-07-16,True
+RIDER0140,Rider_140,Deira (Dubai),Motorcycle,4.6,2024-03-19,True
+RIDER0141,Rider_141,Al Nuaimiya (Ajman),Bike,5.0,2023-03-03,True
+RIDER0142,Rider_142,JBR (Dubai),Bike,4.0,2024-05-03,True
+RIDER0143,Rider_143,Downtown (Dubai),Bike,4.9,2023-08-10,True
+RIDER0144,Rider_144,Marina (Dubai),Car,4.4,2023-12-13,True
+RIDER0145,Rider_145,Al Nahda (Sharjah),Motorcycle,4.4,2024-09-05,True
+RIDER0146,Rider_146,Business Bay (Dubai),Bike,4.1,2024-12-06,True
+RIDER0147,Rider_147,JLT (Dubai),Motorcycle,4.2,2023-01-19,True
+RIDER0148,Rider_148,Corniche (Abu Dhabi),Bike,4.9,2024-12-05,True
+RIDER0149,Rider_149,Al Nuaimiya (Ajman),Car,4.5,2024-05-02,True
+RIDER0150,Rider_150,Yas Island (Abu Dhabi),Bike,4.7,2024-12-16,True
+RIDER0151,Rider_151,Downtown (Dubai),Car,4.7,2024-08-09,False
+RIDER0152,Rider_152,Deira (Dubai),Motorcycle,4.4,2023-09-13,True
+RIDER0153,Rider_153,Khalidiya (Abu Dhabi),Motorcycle,4.0,2023-04-08,True
+RIDER0154,Rider_154,Downtown (Dubai),Motorcycle,3.6,2024-05-17,True
+RIDER0155,Rider_155,Al Rashidiya (Ajman),Motorcycle,4.9,2023-09-30,True
+RIDER0156,Rider_156,Corniche (Abu Dhabi),Motorcycle,4.7,2023-10-10,True
+RIDER0157,Rider_157,JLT (Dubai),Motorcycle,3.6,2023-09-10,True
+RIDER0158,Rider_158,Marina (Dubai),Bike,4.7,2024-05-09,True
+RIDER0159,Rider_159,Al Majaz (Sharjah),Bike,4.0,2023-11-18,True
+RIDER0160,Rider_160,Yas Island (Abu Dhabi),Bike,4.7,2023-07-12,False
+RIDER0161,Rider_161,Al Reem (Abu Dhabi),Motorcycle,3.9,2023-03-04,True
+RIDER0162,Rider_162,Deira (Dubai),Motorcycle,4.3,2023-09-12,True
+RIDER0163,Rider_163,Corniche (Abu Dhabi),Motorcycle,4.8,2023-11-02,True
+RIDER0164,Rider_164,Downtown (Dubai),Bike,3.5,2024-10-21,True
+RIDER0165,Rider_165,JBR (Dubai),Bike,4.7,2023-06-01,True
+RIDER0166,Rider_166,Corniche (Abu Dhabi),Motorcycle,4.4,2023-11-18,True
+RIDER0167,Rider_167,Business Bay (Dubai),Motorcycle,3.8,2024-09-13,True
+RIDER0168,Rider_168,Downtown (Dubai),Motorcycle,4.0,2023-01-18,True
+RIDER0169,Rider_169,Al Nuaimiya (Ajman),Bike,4.2,2023-05-26,True
+RIDER0170,Rider_170,Al Qasimia (Sharjah),Bike,3.5,2024-03-20,True
+RIDER0171,Rider_171,Corniche (Abu Dhabi),Bike,4.4,2023-02-05,True
+RIDER0172,Rider_172,JLT (Dubai),Motorcycle,4.4,2024-06-07,True
+RIDER0173,Rider_173,Al Qasimia (Sharjah),Motorcycle,4.2,2023-03-11,True
+RIDER0174,Rider_174,JBR (Dubai),Motorcycle,4.9,2023-08-29,True
+RIDER0175,Rider_175,JLT (Dubai),Car,4.0,2024-02-27,True
+RIDER0176,Rider_176,JBR (Dubai),Motorcycle,4.3,2024-06-21,True
+RIDER0177,Rider_177,Al Majaz (Sharjah),Bike,3.7,2023-04-02,True
+RIDER0178,Rider_178,Khalidiya (Abu Dhabi),Bike,4.6,2023-09-25,True
+RIDER0179,Rider_179,Marina (Dubai),Motorcycle,4.3,2023-02-23,True
+RIDER0180,Rider_180,Al Qasimia (Sharjah),Bike,3.6,2023-08-13,True
+RIDER0181,Rider_181,Downtown (Dubai),Car,3.7,2023-11-24,True
+RIDER0182,Rider_182,Al Majaz (Sharjah),Motorcycle,4.1,2024-06-06,True
+RIDER0183,Rider_183,Khalidiya (Abu Dhabi),Bike,4.6,2024-02-29,True
+RIDER0184,Rider_184,Marina (Dubai),Bike,3.6,2023-08-24,True
+RIDER0185,Rider_185,Marina (Dubai),Bike,3.6,2024-01-12,True
+RIDER0186,Rider_186,Al Nuaimiya (Ajman),Bike,3.8,2024-07-03,True
+RIDER0187,Rider_187,Al Nahda (Sharjah),Motorcycle,3.9,2024-07-23,True
+RIDER0188,Rider_188,Corniche (Abu Dhabi),Bike,3.8,2024-09-14,True
+RIDER0189,Rider_189,Deira (Dubai),Bike,3.9,2023-05-03,True
+RIDER0190,Rider_190,Khalidiya (Abu Dhabi),Bike,4.4,2024-10-29,True
+RIDER0191,Rider_191,Al Majaz (Sharjah),Motorcycle,3.8,2023-02-12,True
+RIDER0192,Rider_192,JBR (Dubai),Motorcycle,4.8,2023-07-24,True
+RIDER0193,Rider_193,Al Qasimia (Sharjah),Motorcycle,4.7,2024-11-21,True
+RIDER0194,Rider_194,Al Reem (Abu Dhabi),Motorcycle,4.0,2023-02-25,True
+RIDER0195,Rider_195,Deira (Dubai),Motorcycle,4.8,2023-09-16,True
+RIDER0196,Rider_196,Marina (Dubai),Bike,3.8,2023-07-05,True
+RIDER0197,Rider_197,Deira (Dubai),Motorcycle,4.6,2023-12-02,True
+RIDER0198,Rider_198,Corniche (Abu Dhabi),Motorcycle,3.7,2024-05-18,True
+RIDER0199,Rider_199,Al Reem (Abu Dhabi),Bike,5.0,2023-09-12,True
+RIDER0200,Rider_200,JBR (Dubai),Motorcycle,4.8,2024-09-26,True
+RIDER0201,Rider_201,Marina (Dubai),Car,4.9,2023-11-07,True
+RIDER0202,Rider_202,Al Qasimia (Sharjah),Motorcycle,3.7,2023-02-24,True
+RIDER0203,Rider_203,Al Nahda (Sharjah),Bike,4.1,2024-01-17,True
+RIDER0204,Rider_204,Corniche (Abu Dhabi),Motorcycle,3.9,2023-02-05,True
+RIDER0205,Rider_205,Business Bay (Dubai),Bike,4.2,2023-07-29,True
+RIDER0206,Rider_206,Al Nahda (Sharjah),Motorcycle,4.5,2023-02-01,True
+RIDER0207,Rider_207,Al Rashidiya (Ajman),Motorcycle,3.5,2023-03-30,True
+RIDER0208,Rider_208,Khalidiya (Abu Dhabi),Motorcycle,4.4,2024-07-24,True
+RIDER0209,Rider_209,Marina (Dubai),Motorcycle,4.2,2024-12-09,True
+RIDER0210,Rider_210,JBR (Dubai),Bike,4.1,2023-02-08,True
+RIDER0211,Rider_211,Al Nuaimiya (Ajman),Motorcycle,3.8,2023-01-14,True
+RIDER0212,Rider_212,Marina (Dubai),Motorcycle,4.9,2023-10-15,True
+RIDER0213,Rider_213,Al Qasimia (Sharjah),Motorcycle,4.7,2023-01-25,True
+RIDER0214,Rider_214,Al Nuaimiya (Ajman),Bike,4.5,2023-01-02,False
+RIDER0215,Rider_215,Marina (Dubai),Motorcycle,4.8,2024-03-21,True
+RIDER0216,Rider_216,Al Qasimia (Sharjah),Motorcycle,3.8,2023-02-18,True
+RIDER0217,Rider_217,JBR (Dubai),Motorcycle,4.2,2024-04-28,True
+RIDER0218,Rider_218,JLT (Dubai),Motorcycle,4.1,2024-07-18,True
+RIDER0219,Rider_219,JLT (Dubai),Motorcycle,4.0,2023-06-28,True
+RIDER0220,Rider_220,JLT (Dubai),Motorcycle,4.0,2023-10-27,True
+RIDER0221,Rider_221,Al Nahda (Sharjah),Motorcycle,4.2,2024-07-09,True
+RIDER0222,Rider_222,Corniche (Abu Dhabi),Bike,3.9,2023-05-21,True
+RIDER0223,Rider_223,JLT (Dubai),Motorcycle,4.2,2024-07-06,True
+RIDER0224,Rider_224,Downtown (Dubai),Motorcycle,4.0,2024-10-02,True
+RIDER0225,Rider_225,JLT (Dubai),Motorcycle,4.7,2023-06-13,True
+RIDER0226,Rider_226,Al Reem (Abu Dhabi),Bike,4.7,2023-07-30,True
+RIDER0227,Rider_227,Corniche (Abu Dhabi),Bike,4.1,2023-04-25,False
+RIDER0228,Rider_228,Yas Island (Abu Dhabi),Bike,3.7,2023-01-05,True
+RIDER0229,Rider_229,Yas Island (Abu Dhabi),Motorcycle,3.7,2023-08-21,True
+RIDER0230,Rider_230,Al Majaz (Sharjah),Bike,3.7,2024-01-18,True
+RIDER0231,Rider_231,Corniche (Abu Dhabi),Motorcycle,4.7,2023-08-13,True
+RIDER0232,Rider_232,Al Qasimia (Sharjah),Motorcycle,4.6,2023-04-19,True
+RIDER0233,Rider_233,Al Nahda (Sharjah),Motorcycle,4.8,2023-07-12,True
+RIDER0234,Rider_234,Al Rashidiya (Ajman),Motorcycle,4.3,2023-04-21,True
+RIDER0235,Rider_235,Al Rashidiya (Ajman),Bike,4.9,2023-09-05,True
+RIDER0236,Rider_236,Business Bay (Dubai),Motorcycle,4.3,2023-04-09,False
+RIDER0237,Rider_237,Deira (Dubai),Bike,3.5,2023-05-04,True
+RIDER0238,Rider_238,Al Nuaimiya (Ajman),Motorcycle,3.6,2023-09-17,True
+RIDER0239,Rider_239,JBR (Dubai),Motorcycle,4.0,2024-02-17,True
+RIDER0240,Rider_240,Al Reem (Abu Dhabi),Bike,4.1,2023-08-02,True
+RIDER0241,Rider_241,Al Reem (Abu Dhabi),Motorcycle,4.2,2024-09-21,True
+RIDER0242,Rider_242,Al Nahda (Sharjah),Motorcycle,3.5,2023-11-24,True
+RIDER0243,Rider_243,Business Bay (Dubai),Motorcycle,4.8,2024-01-28,True
+RIDER0244,Rider_244,Al Majaz (Sharjah),Bike,4.5,2024-09-27,True
+RIDER0245,Rider_245,Al Nahda (Sharjah),Motorcycle,3.5,2023-02-09,False
+RIDER0246,Rider_246,Al Majaz (Sharjah),Car,4.2,2024-07-10,True
+RIDER0247,Rider_247,Deira (Dubai),Motorcycle,4.6,2023-04-07,True
+RIDER0248,Rider_248,Al Qasimia (Sharjah),Bike,4.4,2024-04-25,True
+RIDER0249,Rider_249,Business Bay (Dubai),Motorcycle,4.6,2024-04-07,True
+RIDER0250,Rider_250,Corniche (Abu Dhabi),Bike,4.5,2024-08-30,True
+RIDER0251,Rider_251,Al Majaz (Sharjah),Bike,4.3,2023-03-12,True
+RIDER0252,Rider_252,Khalidiya (Abu Dhabi),Bike,4.3,2024-07-02,True
+RIDER0253,Rider_253,Marina (Dubai),Bike,3.7,2024-06-13,True
+RIDER0254,Rider_254,Al Rashidiya (Ajman),Motorcycle,4.8,2023-02-10,True
+RIDER0255,Rider_255,JLT (Dubai),Motorcycle,4.5,2023-03-20,True
+RIDER0256,Rider_256,Khalidiya (Abu Dhabi),Bike,4.1,2024-10-31,False
+RIDER0257,Rider_257,Al Majaz (Sharjah),Bike,4.0,2023-08-17,True
+RIDER0258,Rider_258,Al Nahda (Sharjah),Motorcycle,4.2,2024-12-31,True
+RIDER0259,Rider_259,Al Qasimia (Sharjah),Car,3.7,2023-06-18,True
+RIDER0260,Rider_260,Al Qasimia (Sharjah),Car,4.4,2023-01-25,True
+RIDER0261,Rider_261,JLT (Dubai),Motorcycle,4.1,2024-12-26,True
+RIDER0262,Rider_262,Al Qasimia (Sharjah),Bike,4.3,2024-03-04,True
+RIDER0263,Rider_263,Business Bay (Dubai),Motorcycle,4.6,2023-03-10,True
+RIDER0264,Rider_264,Business Bay (Dubai),Motorcycle,4.5,2024-05-01,True
+RIDER0265,Rider_265,Al Rashidiya (Ajman),Bike,4.9,2023-05-21,True
+RIDER0266,Rider_266,Downtown (Dubai),Bike,3.8,2023-07-21,True
+RIDER0267,Rider_267,Yas Island (Abu Dhabi),Bike,3.9,2023-03-10,False
+RIDER0268,Rider_268,Al Nahda (Sharjah),Bike,4.1,2024-07-27,True
+RIDER0269,Rider_269,Deira (Dubai),Bike,3.7,2024-12-19,True
+RIDER0270,Rider_270,JLT (Dubai),Bike,4.7,2023-04-26,True
+RIDER0271,Rider_271,Business Bay (Dubai),Motorcycle,3.5,2023-05-21,True
+RIDER0272,Rider_272,Deira (Dubai),Motorcycle,4.7,2023-07-13,True
+RIDER0273,Rider_273,Khalidiya (Abu Dhabi),Motorcycle,3.6,2024-02-02,True
+RIDER0274,Rider_274,Al Nahda (Sharjah),Motorcycle,4.7,2023-05-30,True
+RIDER0275,Rider_275,Al Nuaimiya (Ajman),Motorcycle,4.8,2023-03-11,True
+RIDER0276,Rider_276,JBR (Dubai),Motorcycle,3.9,2024-02-28,True
+RIDER0277,Rider_277,JLT (Dubai),Car,4.7,2024-02-21,True
+RIDER0278,Rider_278,Corniche (Abu Dhabi),Bike,4.0,2024-02-09,True
+RIDER0279,Rider_279,Al Nahda (Sharjah),Motorcycle,4.1,2024-04-05,True
+RIDER0280,Rider_280,Al Nuaimiya (Ajman),Bike,4.9,2024-05-05,True
+RIDER0281,Rider_281,Al Majaz (Sharjah),Motorcycle,4.1,2024-10-12,True
+RIDER0282,Rider_282,Al Reem (Abu Dhabi),Motorcycle,4.2,2023-03-18,True
+RIDER0283,Rider_283,Marina (Dubai),Motorcycle,4.3,2024-12-22,True
+RIDER0284,Rider_284,Downtown (Dubai),Motorcycle,3.6,2023-10-12,True
+RIDER0285,Rider_285,Khalidiya (Abu Dhabi),Motorcycle,5.0,2023-12-16,True
+RIDER0286,Rider_286,Yas Island (Abu Dhabi),Motorcycle,4.9,2024-04-26,True
+RIDER0287,Rider_287,Corniche (Abu Dhabi),Motorcycle,4.8,2024-08-26,True
+RIDER0288,Rider_288,Al Rashidiya (Ajman),Motorcycle,4.4,2024-08-10,True
+RIDER0289,Rider_289,JLT (Dubai),Bike,4.2,2023-12-17,True
+RIDER0290,Rider_290,Al Reem (Abu Dhabi),Motorcycle,3.9,2023-10-02,False
+RIDER0291,Rider_291,Al Nuaimiya (Ajman),Bike,4.3,2023-11-17,False
+RIDER0292,Rider_292,JLT (Dubai),Car,4.3,2023-12-23,False
+RIDER0293,Rider_293,Deira (Dubai),Motorcycle,4.3,2024-02-26,True
+RIDER0294,Rider_294,Al Reem (Abu Dhabi),Motorcycle,4.5,2024-09-19,True
+RIDER0295,Rider_295,Downtown (Dubai),Motorcycle,4.5,2023-07-14,True
+RIDER0296,Rider_296,JLT (Dubai),Motorcycle,4.3,2023-07-29,True
+RIDER0297,Rider_297,Al Reem (Abu Dhabi),Motorcycle,3.7,2023-10-26,True
+RIDER0298,Rider_298,Deira (Dubai),Motorcycle,4.5,2023-12-12,True
+RIDER0299,Rider_299,Al Nahda (Sharjah),Motorcycle,4.1,2024-02-06,True
+RIDER0300,Rider_300,Business Bay (Dubai),Car,4.2,2023-12-16,True
+RIDER0301,Rider_301,Al Reem (Abu Dhabi),Bike,3.7,2024-01-21,True
+RIDER0302,Rider_302,Corniche (Abu Dhabi),Bike,3.8,2023-09-18,False
+RIDER0303,Rider_303,Khalidiya (Abu Dhabi),Car,4.3,2023-10-11,True
+RIDER0304,Rider_304,Corniche (Abu Dhabi),Bike,3.6,2024-03-13,True
+RIDER0305,Rider_305,Khalidiya (Abu Dhabi),Motorcycle,4.2,2024-02-01,True
+RIDER0306,Rider_306,Downtown (Dubai),Bike,4.0,2023-02-25,True
+RIDER0307,Rider_307,JBR (Dubai),Bike,4.3,2023-10-02,True
+RIDER0308,Rider_308,JBR (Dubai),Car,4.5,2023-07-29,True
+RIDER0309,Rider_309,Al Nahda (Sharjah),Motorcycle,3.5,2023-12-12,False
+RIDER0310,Rider_310,Al Qasimia (Sharjah),Bike,4.1,2023-08-25,True
+RIDER0311,Rider_311,Al Reem (Abu Dhabi),Motorcycle,3.9,2024-07-19,True
+RIDER0312,Rider_312,Deira (Dubai),Bike,4.3,2023-11-21,True
+RIDER0313,Rider_313,Downtown (Dubai),Motorcycle,4.7,2023-07-28,True
+RIDER0314,Rider_314,Marina (Dubai),Car,3.6,2024-09-20,False
+RIDER0315,Rider_315,Business Bay (Dubai),Motorcycle,3.7,2023-09-10,True
+RIDER0316,Rider_316,Deira (Dubai),Bike,4.4,2023-06-27,False
+RIDER0317,Rider_317,Business Bay (Dubai),Bike,3.9,2023-11-12,True
+RIDER0318,Rider_318,Al Nuaimiya (Ajman),Motorcycle,4.1,2023-08-07,True
+RIDER0319,Rider_319,Al Nuaimiya (Ajman),Bike,4.6,2024-03-29,True
+RIDER0320,Rider_320,Al Rashidiya (Ajman),Bike,4.4,2024-01-25,True
+RIDER0321,Rider_321,Al Majaz (Sharjah),Bike,4.8,2024-05-18,True
+RIDER0322,Rider_322,Al Rashidiya (Ajman),Motorcycle,4.0,2024-05-26,True
+RIDER0323,Rider_323,Corniche (Abu Dhabi),Motorcycle,4.4,2024-01-17,True
+RIDER0324,Rider_324,JBR (Dubai),Motorcycle,4.5,2024-01-22,True
+RIDER0325,Rider_325,Corniche (Abu Dhabi),Bike,4.0,2024-02-19,True
+RIDER0326,Rider_326,Al Qasimia (Sharjah),Bike,3.8,2024-09-06,True
+RIDER0327,Rider_327,Marina (Dubai),Motorcycle,4.3,2024-10-22,True
+RIDER0328,Rider_328,Khalidiya (Abu Dhabi),Motorcycle,3.5,2024-08-08,True
+RIDER0329,Rider_329,Corniche (Abu Dhabi),Bike,4.2,2024-04-01,False
+RIDER0330,Rider_330,JBR (Dubai),Motorcycle,4.0,2023-10-03,True
+RIDER0331,Rider_331,Business Bay (Dubai),Motorcycle,3.8,2024-08-22,True
+RIDER0332,Rider_332,Al Reem (Abu Dhabi),Motorcycle,3.8,2023-02-07,False
+RIDER0333,Rider_333,JLT (Dubai),Bike,3.8,2024-12-25,False
+RIDER0334,Rider_334,JBR (Dubai),Motorcycle,4.3,2023-09-14,True
+RIDER0335,Rider_335,Al Rashidiya (Ajman),Bike,3.7,2023-05-26,True
+RIDER0336,Rider_336,Business Bay (Dubai),Motorcycle,3.8,2024-02-24,True
+RIDER0337,Rider_337,Yas Island (Abu Dhabi),Bike,4.8,2024-09-27,True
+RIDER0338,Rider_338,Al Nahda (Sharjah),Motorcycle,4.8,2023-06-30,True
+RIDER0339,Rider_339,Khalidiya (Abu Dhabi),Car,4.8,2023-08-30,True
+RIDER0340,Rider_340,Deira (Dubai),Motorcycle,3.6,2023-04-14,True
+RIDER0341,Rider_341,Al Majaz (Sharjah),Bike,3.7,2024-04-18,True
+RIDER0342,Rider_342,JLT (Dubai),Motorcycle,3.7,2023-07-11,True
+RIDER0343,Rider_343,Marina (Dubai),Bike,3.8,2023-10-06,True
+RIDER0344,Rider_344,Marina (Dubai),Motorcycle,4.8,2024-02-08,True
+RIDER0345,Rider_345,Marina (Dubai),Motorcycle,4.8,2023-09-05,True
+RIDER0346,Rider_346,Al Nuaimiya (Ajman),Bike,4.7,2024-04-18,True
+RIDER0347,Rider_347,Downtown (Dubai),Motorcycle,4.6,2023-06-15,True
+RIDER0348,Rider_348,Al Majaz (Sharjah),Bike,5.0,2023-05-20,True
+RIDER0349,Rider_349,Khalidiya (Abu Dhabi),Motorcycle,4.2,2024-02-09,True
+RIDER0350,Rider_350,Al Qasimia (Sharjah),Motorcycle,4.3,2024-10-24,False
+RIDER0351,Rider_351,JLT (Dubai),Motorcycle,4.4,2024-02-19,True
+RIDER0352,Rider_352,Yas Island (Abu Dhabi),Car,3.8,2024-05-26,True
+RIDER0353,Rider_353,Marina (Dubai),Bike,4.4,2024-01-12,True
+RIDER0354,Rider_354,JBR (Dubai),Motorcycle,4.1,2024-01-20,True
+RIDER0355,Rider_355,Marina (Dubai),Bike,3.8,2023-01-17,True
+RIDER0356,Rider_356,Al Majaz (Sharjah),Motorcycle,3.7,2024-08-27,True
+RIDER0357,Rider_357,Al Qasimia (Sharjah),Bike,4.7,2024-02-10,True
+RIDER0358,Rider_358,Marina (Dubai),Car,4.9,2023-09-16,True
+RIDER0359,Rider_359,Khalidiya (Abu Dhabi),Motorcycle,4.1,2023-07-29,True
+RIDER0360,Rider_360,Corniche (Abu Dhabi),Car,3.9,2023-05-30,True
+RIDER0361,Rider_361,Al Rashidiya (Ajman),Bike,4.1,2023-12-25,True
+RIDER0362,Rider_362,Corniche (Abu Dhabi),Motorcycle,4.8,2023-03-21,True
+RIDER0363,Rider_363,JLT (Dubai),Motorcycle,4.3,2023-02-11,False
+RIDER0364,Rider_364,Al Nuaimiya (Ajman),Motorcycle,3.6,2023-12-06,True
+RIDER0365,Rider_365,Al Rashidiya (Ajman),Motorcycle,3.5,2023-04-14,True
+RIDER0366,Rider_366,Al Qasimia (Sharjah),Motorcycle,3.6,2024-06-05,True
+RIDER0367,Rider_367,Yas Island (Abu Dhabi),Bike,4.2,2023-12-09,True
+RIDER0368,Rider_368,Khalidiya (Abu Dhabi),Bike,4.0,2024-01-12,True
+RIDER0369,Rider_369,Yas Island (Abu Dhabi),Motorcycle,4.8,2024-05-14,True
+RIDER0370,Rider_370,Yas Island (Abu Dhabi),Bike,4.7,2024-08-02,True
+RIDER0371,Rider_371,Downtown (Dubai),Car,4.1,2024-11-07,True
+RIDER0372,Rider_372,Al Qasimia (Sharjah),Motorcycle,3.9,2023-05-26,True
+RIDER0373,Rider_373,Deira (Dubai),Bike,4.1,2024-02-08,True
+RIDER0374,Rider_374,Marina (Dubai),Bike,4.9,2023-07-19,True
+RIDER0375,Rider_375,Deira (Dubai),Motorcycle,4.7,2023-06-05,True
+RIDER0376,Rider_376,Al Reem (Abu Dhabi),Bike,4.9,2023-01-01,False
+RIDER0377,Rider_377,Downtown (Dubai),Motorcycle,3.9,2024-05-09,True
+RIDER0378,Rider_378,Deira (Dubai),Motorcycle,5.0,2024-11-19,True
+RIDER0379,Rider_379,JBR (Dubai),Motorcycle,4.7,2023-12-17,True
+RIDER0380,Rider_380,JLT (Dubai),Motorcycle,4.9,2023-09-22,True
+RIDER0381,Rider_381,Yas Island (Abu Dhabi),Motorcycle,4.7,2023-12-05,True
+RIDER0382,Rider_382,JLT (Dubai),Motorcycle,4.5,2024-08-26,True
+RIDER0383,Rider_383,Business Bay (Dubai),Motorcycle,4.7,2023-09-09,True
+RIDER0384,Rider_384,Marina (Dubai),Motorcycle,3.9,2024-06-05,True
+RIDER0385,Rider_385,Al Qasimia (Sharjah),Car,3.6,2024-08-28,True
+RIDER0386,Rider_386,Al Nuaimiya (Ajman),Bike,4.7,2024-07-22,True
+RIDER0387,Rider_387,Al Majaz (Sharjah),Bike,4.9,2024-04-20,False
+RIDER0388,Rider_388,Al Rashidiya (Ajman),Bike,4.3,2024-01-07,True
+RIDER0389,Rider_389,Corniche (Abu Dhabi),Motorcycle,4.0,2023-03-25,True
+RIDER0390,Rider_390,Al Reem (Abu Dhabi),Motorcycle,4.9,2023-03-09,True
+RIDER0391,Rider_391,Al Rashidiya (Ajman),Motorcycle,4.2,2024-03-18,True
+RIDER0392,Rider_392,Khalidiya (Abu Dhabi),Car,4.0,2024-01-15,True
+RIDER0393,Rider_393,Deira (Dubai),Motorcycle,5.0,2024-02-10,True
+RIDER0394,Rider_394,Corniche (Abu Dhabi),Motorcycle,3.9,2023-09-07,True
+RIDER0395,Rider_395,Downtown (Dubai),Bike,4.4,2024-08-30,True
+RIDER0396,Rider_396,JBR (Dubai),Bike,3.6,2023-01-09,True
+RIDER0397,Rider_397,Corniche (Abu Dhabi),Motorcycle,3.6,2024-12-15,True
+RIDER0398,Rider_398,Marina (Dubai),Bike,3.8,2023-05-17,True
+RIDER0399,Rider_399,Al Nuaimiya (Ajman),Bike,4.5,2024-12-17,True
+RIDER0400,Rider_400,Al Reem (Abu Dhabi),Bike,3.7,2023-11-14,True
+RIDER0401,Rider_401,Marina (Dubai),Car,3.6,2023-02-10,True
+RIDER0402,Rider_402,Al Nuaimiya (Ajman),Car,4.7,2024-02-05,True
+RIDER0403,Rider_403,Khalidiya (Abu Dhabi),Bike,4.4,2024-09-22,True
+RIDER0404,Rider_404,JBR (Dubai),Motorcycle,3.9,2023-03-08,True
+RIDER0405,Rider_405,Al Nuaimiya (Ajman),Bike,4.5,2024-12-17,True
+RIDER0406,Rider_406,Khalidiya (Abu Dhabi),Motorcycle,4.5,2023-02-02,True
+RIDER0407,Rider_407,JLT (Dubai),Motorcycle,4.5,2024-04-08,True
+RIDER0408,Rider_408,Yas Island (Abu Dhabi),Bike,4.5,2024-02-15,True
+RIDER0409,Rider_409,Al Rashidiya (Ajman),Bike,5.0,2023-11-13,True
+RIDER0410,Rider_410,Deira (Dubai),Bike,3.7,2023-06-08,True
+RIDER0411,Rider_411,Marina (Dubai),Motorcycle,3.7,2023-04-21,False
+RIDER0412,Rider_412,Downtown (Dubai),Bike,3.6,2023-12-07,True
+RIDER0413,Rider_413,Al Reem (Abu Dhabi),Bike,4.2,2024-02-24,True
+RIDER0414,Rider_414,Al Nahda (Sharjah),Motorcycle,4.5,2024-08-24,True
+RIDER0415,Rider_415,Al Qasimia (Sharjah),Bike,4.2,2023-02-04,True
+RIDER0416,Rider_416,Corniche (Abu Dhabi),Bike,3.6,2023-02-02,True
+RIDER0417,Rider_417,Al Majaz (Sharjah),Bike,3.8,2024-05-24,True
+RIDER0418,Rider_418,Corniche (Abu Dhabi),Motorcycle,4.8,2024-04-05,True
+RIDER0419,Rider_419,JLT (Dubai),Motorcycle,4.6,2024-11-05,True
+RIDER0420,Rider_420,Al Rashidiya (Ajman),Motorcycle,4.8,2023-07-08,True
+RIDER0421,Rider_421,Al Majaz (Sharjah),Bike,3.9,2023-04-06,True
+RIDER0422,Rider_422,JLT (Dubai),Bike,4.8,2023-09-03,True
+RIDER0423,Rider_423,Khalidiya (Abu Dhabi),Car,4.9,2023-07-04,True
+RIDER0424,Rider_424,Al Majaz (Sharjah),Bike,4.0,2023-12-18,True
+RIDER0425,Rider_425,JLT (Dubai),Bike,3.7,2024-05-28,True
+RIDER0426,Rider_426,Downtown (Dubai),Bike,4.5,2024-06-01,True
+RIDER0427,Rider_427,Corniche (Abu Dhabi),Motorcycle,5.0,2024-09-19,False
+RIDER0428,Rider_428,Deira (Dubai),Motorcycle,4.9,2023-02-10,True
+RIDER0429,Rider_429,Al Qasimia (Sharjah),Motorcycle,3.9,2024-04-12,True
+RIDER0430,Rider_430,JLT (Dubai),Bike,4.4,2023-03-06,True
+RIDER0431,Rider_431,Al Rashidiya (Ajman),Motorcycle,4.2,2024-09-15,True
+RIDER0432,Rider_432,Al Rashidiya (Ajman),Bike,4.4,2024-04-05,True
+RIDER0433,Rider_433,Al Rashidiya (Ajman),Motorcycle,3.6,2023-08-23,True
+RIDER0434,Rider_434,Al Reem (Abu Dhabi),Bike,3.9,2024-06-27,True
+RIDER0435,Rider_435,Deira (Dubai),Car,4.2,2024-02-11,True
+RIDER0436,Rider_436,Marina (Dubai),Car,4.7,2023-10-08,True
+RIDER0437,Rider_437,Al Rashidiya (Ajman),Motorcycle,4.1,2024-05-28,True
+RIDER0438,Rider_438,Al Qasimia (Sharjah),Motorcycle,4.5,2023-11-10,True
+RIDER0439,Rider_439,Al Nahda (Sharjah),Bike,5.0,2023-08-07,True
+RIDER0440,Rider_440,Yas Island (Abu Dhabi),Bike,3.7,2023-08-29,False
+RIDER0441,Rider_441,Corniche (Abu Dhabi),Motorcycle,4.0,2024-07-12,True
+RIDER0442,Rider_442,Marina (Dubai),Motorcycle,3.6,2024-10-24,True
+RIDER0443,Rider_443,Khalidiya (Abu Dhabi),Bike,3.7,2023-09-22,True
+RIDER0444,Rider_444,Business Bay (Dubai),Motorcycle,4.1,2024-03-12,True
+RIDER0445,Rider_445,Downtown (Dubai),Bike,4.6,2023-10-23,True
+RIDER0446,Rider_446,Yas Island (Abu Dhabi),Motorcycle,4.5,2023-03-20,False
+RIDER0447,Rider_447,Al Nuaimiya (Ajman),Bike,4.9,2023-09-03,True
+RIDER0448,Rider_448,Al Majaz (Sharjah),Motorcycle,4.9,2023-07-03,True
+RIDER0449,Rider_449,Khalidiya (Abu Dhabi),Bike,4.3,2024-07-01,True
+RIDER0450,Rider_450,JBR (Dubai),Motorcycle,4.4,2023-03-27,True
+RIDER0451,Rider_451,JBR (Dubai),Bike,4.1,2023-07-13,True
+RIDER0452,Rider_452,Business Bay (Dubai),Motorcycle,4.9,2024-09-27,True
+RIDER0453,Rider_453,Al Majaz (Sharjah),Motorcycle,5.0,2023-06-16,True
+RIDER0454,Rider_454,Downtown (Dubai),Motorcycle,4.5,2023-07-18,True
+RIDER0455,Rider_455,Al Rashidiya (Ajman),Motorcycle,4.0,2023-12-15,True
+RIDER0456,Rider_456,Al Majaz (Sharjah),Motorcycle,3.7,2024-06-08,True
+RIDER0457,Rider_457,Corniche (Abu Dhabi),Bike,3.8,2024-10-14,True
+RIDER0458,Rider_458,Al Reem (Abu Dhabi),Motorcycle,3.6,2023-08-21,True
+RIDER0459,Rider_459,Al Rashidiya (Ajman),Car,4.2,2024-04-13,True
+RIDER0460,Rider_460,Al Nahda (Sharjah),Bike,4.8,2023-02-07,True
+RIDER0461,Rider_461,Marina (Dubai),Motorcycle,3.5,2024-11-11,False
+RIDER0462,Rider_462,Al Nahda (Sharjah),Bike,4.6,2023-01-08,False
+RIDER0463,Rider_463,Al Nuaimiya (Ajman),Motorcycle,3.7,2023-04-09,True
+RIDER0464,Rider_464,Yas Island (Abu Dhabi),Motorcycle,4.4,2024-04-29,True
+RIDER0465,Rider_465,Yas Island (Abu Dhabi),Motorcycle,4.0,2024-10-01,True
+RIDER0466,Rider_466,Al Majaz (Sharjah),Motorcycle,4.0,2023-11-16,True
+RIDER0467,Rider_467,Corniche (Abu Dhabi),Bike,4.8,2023-02-26,False
+RIDER0468,Rider_468,Al Nahda (Sharjah),Car,3.7,2023-09-22,True
+RIDER0469,Rider_469,Downtown (Dubai),Bike,4.8,2023-03-18,False
+RIDER0470,Rider_470,JLT (Dubai),Bike,4.0,2023-11-04,True
+RIDER0471,Rider_471,Marina (Dubai),Car,4.0,2024-12-29,True
+RIDER0472,Rider_472,Downtown (Dubai),Car,4.4,2023-04-13,True
+RIDER0473,Rider_473,JBR (Dubai),Car,4.7,2023-11-22,True
+RIDER0474,Rider_474,Downtown (Dubai),Motorcycle,4.4,2023-03-22,True
+RIDER0475,Rider_475,Business Bay (Dubai),Bike,4.6,2024-07-08,False
+RIDER0476,Rider_476,JBR (Dubai),Motorcycle,4.3,2024-08-14,True
+RIDER0477,Rider_477,Yas Island (Abu Dhabi),Bike,4.3,2023-11-01,True
+RIDER0478,Rider_478,Corniche (Abu Dhabi),Motorcycle,3.6,2024-03-06,True
+RIDER0479,Rider_479,JLT (Dubai),Bike,3.6,2023-03-12,True
+RIDER0480,Rider_480,Al Reem (Abu Dhabi),Bike,4.8,2023-02-13,True
+RIDER0481,Rider_481,JLT (Dubai),Motorcycle,3.7,2023-06-12,True
+RIDER0482,Rider_482,Yas Island (Abu Dhabi),Motorcycle,3.9,2023-12-09,True
+RIDER0483,Rider_483,Al Nahda (Sharjah),Car,4.6,2023-04-17,True
+RIDER0484,Rider_484,Marina (Dubai),Motorcycle,4.6,2023-05-10,True
+RIDER0485,Rider_485,Al Nuaimiya (Ajman),Motorcycle,4.3,2024-02-22,True
+RIDER0486,Rider_486,Yas Island (Abu Dhabi),Motorcycle,4.4,2023-07-12,True
+RIDER0487,Rider_487,Deira (Dubai),Bike,3.8,2024-11-13,True
+RIDER0488,Rider_488,Al Nuaimiya (Ajman),Motorcycle,4.0,2024-02-19,False
+RIDER0489,Rider_489,Corniche (Abu Dhabi),Car,3.9,2023-09-13,True
+RIDER0490,Rider_490,Al Rashidiya (Ajman),Bike,4.1,2024-10-25,True
+RIDER0491,Rider_491,Marina (Dubai),Car,4.1,2023-07-15,True
+RIDER0492,Rider_492,Al Qasimia (Sharjah),Bike,3.8,2024-10-18,True
+RIDER0493,Rider_493,Al Nahda (Sharjah),Bike,4.6,2023-08-25,False
+RIDER0494,Rider_494,Al Qasimia (Sharjah),Bike,3.6,2024-02-09,True
+RIDER0495,Rider_495,Deira (Dubai),Bike,3.7,2023-01-03,True
+RIDER0496,Rider_496,Al Qasimia (Sharjah),Bike,4.5,2024-02-28,True
+RIDER0497,Rider_497,Deira (Dubai),Motorcycle,3.7,2024-10-25,True
+RIDER0498,Rider_498,Al Nuaimiya (Ajman),Bike,5.0,2024-01-23,True
+RIDER0499,Rider_499,Al Nahda (Sharjah),Bike,4.5,2024-10-12,True
+RIDER0500,Rider_500,Corniche (Abu Dhabi),Bike,4.8,2024-11-09,True
+RIDER0501,Rider_501,Khalidiya (Abu Dhabi),Car,4.2,2023-09-16,True
+RIDER0502,Rider_502,Khalidiya (Abu Dhabi),Bike,4.7,2023-03-03,True
+RIDER0503,Rider_503,Yas Island (Abu Dhabi),Bike,4.1,2023-10-22,True
+RIDER0504,Rider_504,Business Bay (Dubai),Bike,4.7,2024-04-29,True
+RIDER0505,Rider_505,Yas Island (Abu Dhabi),Bike,4.2,2023-11-07,True
+RIDER0506,Rider_506,Khalidiya (Abu Dhabi),Bike,4.8,2024-05-03,False
+RIDER0507,Rider_507,Business Bay (Dubai),Bike,3.8,2023-05-17,True
+RIDER0508,Rider_508,Deira (Dubai),Motorcycle,4.1,2024-07-18,True
+RIDER0509,Rider_509,Al Rashidiya (Ajman),Bike,3.9,2024-01-15,True
+RIDER0510,Rider_510,Al Qasimia (Sharjah),Bike,4.8,2024-06-12,True
+RIDER0511,Rider_511,Al Qasimia (Sharjah),Motorcycle,3.6,2023-04-20,True
+RIDER0512,Rider_512,Business Bay (Dubai),Bike,3.9,2024-11-15,False
+RIDER0513,Rider_513,Al Nuaimiya (Ajman),Motorcycle,4.7,2024-06-26,False
+RIDER0514,Rider_514,Al Nahda (Sharjah),Motorcycle,4.3,2023-06-02,False
+RIDER0515,Rider_515,JLT (Dubai),Motorcycle,4.7,2024-03-05,True
+RIDER0516,Rider_516,Marina (Dubai),Motorcycle,3.8,2023-11-10,True
+RIDER0517,Rider_517,Corniche (Abu Dhabi),Bike,4.7,2024-08-23,True
+RIDER0518,Rider_518,Corniche (Abu Dhabi),Motorcycle,4.9,2024-08-01,True
+RIDER0519,Rider_519,JBR (Dubai),Bike,4.4,2023-09-08,True
+RIDER0520,Rider_520,Al Nuaimiya (Ajman),Bike,4.2,2023-09-04,True
+RIDER0521,Rider_521,Khalidiya (Abu Dhabi),Bike,4.9,2023-01-17,True
+RIDER0522,Rider_522,JBR (Dubai),Motorcycle,3.7,2024-02-25,True
+RIDER0523,Rider_523,Deira (Dubai),Motorcycle,4.3,2023-03-16,True
+RIDER0524,Rider_524,Yas Island (Abu Dhabi),Motorcycle,3.7,2023-08-08,True
+RIDER0525,Rider_525,JBR (Dubai),Bike,3.5,2024-08-24,True
+RIDER0526,Rider_526,Business Bay (Dubai),Motorcycle,4.8,2023-08-03,True
+RIDER0527,Rider_527,Al Rashidiya (Ajman),Bike,3.7,2023-09-14,True
+RIDER0528,Rider_528,Yas Island (Abu Dhabi),Motorcycle,4.9,2023-09-04,True
+RIDER0529,Rider_529,Al Qasimia (Sharjah),Bike,3.8,2024-12-13,True
+RIDER0530,Rider_530,Al Rashidiya (Ajman),Motorcycle,4.7,2023-08-10,True
+RIDER0531,Rider_531,Al Rashidiya (Ajman),Bike,3.6,2024-08-19,True
+RIDER0532,Rider_532,Al Reem (Abu Dhabi),Bike,4.1,2023-12-24,False
+RIDER0533,Rider_533,Al Majaz (Sharjah),Motorcycle,4.5,2023-01-28,True
+RIDER0534,Rider_534,Al Nahda (Sharjah),Motorcycle,4.5,2023-07-17,True
+RIDER0535,Rider_535,Downtown (Dubai),Bike,3.6,2023-07-03,True
+RIDER0536,Rider_536,Deira (Dubai),Bike,3.9,2023-03-04,True
+RIDER0537,Rider_537,Deira (Dubai),Motorcycle,3.5,2023-07-29,True
+RIDER0538,Rider_538,Al Majaz (Sharjah),Motorcycle,3.9,2024-12-04,True
+RIDER0539,Rider_539,Al Qasimia (Sharjah),Bike,4.9,2024-04-30,True
+RIDER0540,Rider_540,Downtown (Dubai),Bike,4.3,2024-12-01,True
+RIDER0541,Rider_541,Corniche (Abu Dhabi),Bike,4.6,2023-08-05,True
+RIDER0542,Rider_542,Corniche (Abu Dhabi),Bike,3.8,2023-06-20,True
+RIDER0543,Rider_543,Yas Island (Abu Dhabi),Motorcycle,4.8,2024-06-27,False
+RIDER0544,Rider_544,Al Rashidiya (Ajman),Motorcycle,4.9,2024-08-22,False
+RIDER0545,Rider_545,Al Rashidiya (Ajman),Motorcycle,4.7,2024-08-31,True
+RIDER0546,Rider_546,Al Reem (Abu Dhabi),Bike,4.2,2023-06-26,True
+RIDER0547,Rider_547,Al Majaz (Sharjah),Motorcycle,4.0,2024-09-12,True
+RIDER0548,Rider_548,Al Qasimia (Sharjah),Motorcycle,4.8,2023-07-20,True
+RIDER0549,Rider_549,Corniche (Abu Dhabi),Motorcycle,4.2,2023-04-04,True
+RIDER0550,Rider_550,JBR (Dubai),Motorcycle,3.7,2023-02-25,True
+RIDER0551,Rider_551,Al Qasimia (Sharjah),Motorcycle,4.8,2024-07-27,True
+RIDER0552,Rider_552,Al Rashidiya (Ajman),Motorcycle,4.6,2023-05-19,True
+RIDER0553,Rider_553,Downtown (Dubai),Motorcycle,3.8,2023-05-10,True
+RIDER0554,Rider_554,Marina (Dubai),Motorcycle,4.4,2023-03-17,True
+RIDER0555,Rider_555,Yas Island (Abu Dhabi),Bike,4.3,2023-04-06,True
+RIDER0556,Rider_556,JLT (Dubai),Motorcycle,4.7,2023-02-15,True
+RIDER0557,Rider_557,Al Nuaimiya (Ajman),Motorcycle,3.7,2023-08-14,True
+RIDER0558,Rider_558,JBR (Dubai),Motorcycle,4.4,2023-03-15,True
+RIDER0559,Rider_559,Al Nahda (Sharjah),Motorcycle,4.6,2023-11-26,True
+RIDER0560,Rider_560,Al Nahda (Sharjah),Bike,4.8,2023-01-31,True
+RIDER0561,Rider_561,Marina (Dubai),Motorcycle,4.7,2024-12-08,True
+RIDER0562,Rider_562,Al Majaz (Sharjah),Motorcycle,3.6,2023-06-18,True
+RIDER0563,Rider_563,Al Majaz (Sharjah),Motorcycle,3.6,2024-12-05,True
+RIDER0564,Rider_564,Al Majaz (Sharjah),Bike,4.7,2024-07-05,True
+RIDER0565,Rider_565,Marina (Dubai),Motorcycle,4.6,2024-09-11,True
+RIDER0566,Rider_566,Downtown (Dubai),Car,4.0,2024-11-19,True
+RIDER0567,Rider_567,Al Rashidiya (Ajman),Motorcycle,3.9,2023-10-27,True
+RIDER0568,Rider_568,JBR (Dubai),Motorcycle,3.7,2024-11-15,True
+RIDER0569,Rider_569,Khalidiya (Abu Dhabi),Bike,4.3,2023-03-20,True
+RIDER0570,Rider_570,Al Nuaimiya (Ajman),Motorcycle,4.3,2023-02-13,True
+RIDER0571,Rider_571,Khalidiya (Abu Dhabi),Bike,4.2,2023-01-27,True
+RIDER0572,Rider_572,Marina (Dubai),Bike,3.9,2023-09-09,True
+RIDER0573,Rider_573,Al Nahda (Sharjah),Bike,4.0,2024-06-12,True
+RIDER0574,Rider_574,Downtown (Dubai),Motorcycle,4.3,2023-08-30,True
+RIDER0575,Rider_575,Al Majaz (Sharjah),Bike,3.8,2023-11-26,True
+RIDER0576,Rider_576,Marina (Dubai),Bike,4.7,2024-08-13,True
+RIDER0577,Rider_577,Marina (Dubai),Motorcycle,3.6,2024-04-26,True
+RIDER0578,Rider_578,Deira (Dubai),Bike,4.4,2024-09-20,True
+RIDER0579,Rider_579,Al Reem (Abu Dhabi),Bike,5.0,2024-10-01,True
+RIDER0580,Rider_580,Al Nuaimiya (Ajman),Car,3.8,2023-03-08,True
+RIDER0581,Rider_581,Al Majaz (Sharjah),Bike,3.7,2024-02-06,True
+RIDER0582,Rider_582,Yas Island (Abu Dhabi),Bike,4.3,2024-06-25,True
+RIDER0583,Rider_583,Business Bay (Dubai),Motorcycle,3.9,2024-10-21,True
+RIDER0584,Rider_584,Khalidiya (Abu Dhabi),Motorcycle,4.9,2024-06-12,True
+RIDER0585,Rider_585,Al Qasimia (Sharjah),Motorcycle,4.3,2023-03-07,True
+RIDER0586,Rider_586,Deira (Dubai),Bike,3.6,2024-12-14,True
+RIDER0587,Rider_587,Al Nahda (Sharjah),Bike,3.8,2024-08-08,True
+RIDER0588,Rider_588,Al Nahda (Sharjah),Motorcycle,4.1,2023-06-12,True
+RIDER0589,Rider_589,Al Rashidiya (Ajman),Motorcycle,4.6,2024-01-13,True
+RIDER0590,Rider_590,Al Nuaimiya (Ajman),Motorcycle,3.8,2023-11-14,False
+RIDER0591,Rider_591,Business Bay (Dubai),Bike,4.8,2024-02-04,True
+RIDER0592,Rider_592,Al Nahda (Sharjah),Bike,4.0,2024-01-18,True
+RIDER0593,Rider_593,Al Nuaimiya (Ajman),Motorcycle,3.8,2023-08-23,True
+RIDER0594,Rider_594,JLT (Dubai),Bike,4.5,2023-10-28,True
+RIDER0595,Rider_595,Al Nuaimiya (Ajman),Car,3.5,2023-03-28,True
+RIDER0596,Rider_596,Business Bay (Dubai),Motorcycle,3.9,2023-10-25,True
+RIDER0597,Rider_597,Al Nuaimiya (Ajman),Motorcycle,4.9,2023-01-24,True
+RIDER0598,Rider_598,Al Qasimia (Sharjah),Bike,3.9,2024-12-15,True
+RIDER0599,Rider_599,Downtown (Dubai),Motorcycle,3.9,2023-05-18,True
+RIDER0600,Rider_600,Al Nuaimiya (Ajman),Motorcycle,4.5,2023-12-15,True
+RIDER0601,Rider_601,Al Nahda (Sharjah),Motorcycle,5.0,2023-10-26,True
+RIDER0602,Rider_602,Al Rashidiya (Ajman),Bike,5.0,2023-12-30,True
+RIDER0603,Rider_603,Yas Island (Abu Dhabi),Bike,4.0,2024-12-26,True
+RIDER0604,Rider_604,Al Qasimia (Sharjah),Bike,3.7,2023-04-15,True
+RIDER0605,Rider_605,Al Qasimia (Sharjah),Motorcycle,4.3,2023-05-07,True
+RIDER0606,Rider_606,Al Reem (Abu Dhabi),Car,3.9,2023-04-04,True
+RIDER0607,Rider_607,Deira (Dubai),Motorcycle,3.7,2024-10-21,True
+RIDER0608,Rider_608,Deira (Dubai),Bike,4.1,2023-02-05,True
+RIDER0609,Rider_609,JBR (Dubai),Car,4.4,2024-06-01,True
+RIDER0610,Rider_610,JLT (Dubai),Car,3.6,2024-05-27,True
+RIDER0611,Rider_611,Al Majaz (Sharjah),Motorcycle,4.8,2023-01-09,True
+RIDER0612,Rider_612,Downtown (Dubai),Bike,3.5,2023-01-31,True
+RIDER0613,Rider_613,JLT (Dubai),Motorcycle,3.7,2023-05-11,True
+RIDER0614,Rider_614,Yas Island (Abu Dhabi),Car,3.9,2024-01-22,True
+RIDER0615,Rider_615,Al Nahda (Sharjah),Motorcycle,3.9,2023-10-18,True
+RIDER0616,Rider_616,Al Reem (Abu Dhabi),Bike,4.6,2024-03-01,False
+RIDER0617,Rider_617,Al Rashidiya (Ajman),Motorcycle,3.8,2024-01-12,True
+RIDER0618,Rider_618,JLT (Dubai),Bike,3.6,2023-11-15,True
+RIDER0619,Rider_619,Al Majaz (Sharjah),Bike,4.3,2024-08-11,True
+RIDER0620,Rider_620,Yas Island (Abu Dhabi),Bike,3.8,2024-06-26,True
+RIDER0621,Rider_621,Al Nuaimiya (Ajman),Bike,3.7,2024-02-22,True
+RIDER0622,Rider_622,Al Nuaimiya (Ajman),Motorcycle,4.9,2024-09-13,True
+RIDER0623,Rider_623,Downtown (Dubai),Bike,4.2,2023-12-10,True
+RIDER0624,Rider_624,JBR (Dubai),Bike,4.9,2024-12-13,True
+RIDER0625,Rider_625,Al Qasimia (Sharjah),Bike,4.3,2024-02-22,False
+RIDER0626,Rider_626,Marina (Dubai),Motorcycle,4.4,2023-12-12,True
+RIDER0627,Rider_627,Al Rashidiya (Ajman),Bike,4.2,2023-02-17,True
+RIDER0628,Rider_628,JBR (Dubai),Bike,3.7,2023-01-19,False
+RIDER0629,Rider_629,Deira (Dubai),Motorcycle,3.6,2023-07-28,True
+RIDER0630,Rider_630,Corniche (Abu Dhabi),Motorcycle,3.6,2023-01-28,True
+RIDER0631,Rider_631,Al Nahda (Sharjah),Motorcycle,4.0,2023-08-06,True
+RIDER0632,Rider_632,Downtown (Dubai),Motorcycle,3.9,2023-12-15,True
+RIDER0633,Rider_633,Al Nuaimiya (Ajman),Motorcycle,4.3,2024-03-22,True
+RIDER0634,Rider_634,Khalidiya (Abu Dhabi),Motorcycle,4.2,2024-07-28,True
+RIDER0635,Rider_635,Downtown (Dubai),Motorcycle,5.0,2023-09-28,True
+RIDER0636,Rider_636,Marina (Dubai),Bike,4.0,2024-07-21,True
+RIDER0637,Rider_637,Yas Island (Abu Dhabi),Car,4.7,2023-12-17,True
+RIDER0638,Rider_638,Khalidiya (Abu Dhabi),Motorcycle,4.9,2024-06-25,True
+RIDER0639,Rider_639,Marina (Dubai),Bike,4.5,2024-09-21,True
+RIDER0640,Rider_640,Marina (Dubai),Bike,4.1,2024-12-08,True
+RIDER0641,Rider_641,Al Reem (Abu Dhabi),Motorcycle,4.3,2024-08-01,True
+RIDER0642,Rider_642,JBR (Dubai),Motorcycle,3.9,2023-07-06,False
+RIDER0643,Rider_643,Al Qasimia (Sharjah),Car,5.0,2024-08-19,True
+RIDER0644,Rider_644,Corniche (Abu Dhabi),Motorcycle,4.6,2024-09-30,False
+RIDER0645,Rider_645,Corniche (Abu Dhabi),Motorcycle,4.4,2024-01-20,True
+RIDER0646,Rider_646,Al Nahda (Sharjah),Bike,4.3,2024-09-11,True
+RIDER0647,Rider_647,Al Qasimia (Sharjah),Motorcycle,4.5,2024-04-12,True
+RIDER0648,Rider_648,Yas Island (Abu Dhabi),Bike,4.3,2024-01-10,True
+RIDER0649,Rider_649,Al Nahda (Sharjah),Car,3.9,2023-12-05,True
+RIDER0650,Rider_650,Business Bay (Dubai),Bike,4.3,2023-11-14,True
+RIDER0651,Rider_651,Al Majaz (Sharjah),Car,3.8,2023-06-29,True
+RIDER0652,Rider_652,JBR (Dubai),Bike,4.7,2023-08-17,True
+RIDER0653,Rider_653,Downtown (Dubai),Motorcycle,4.1,2024-07-31,True
+RIDER0654,Rider_654,Marina (Dubai),Motorcycle,4.5,2024-07-25,True
+RIDER0655,Rider_655,Corniche (Abu Dhabi),Motorcycle,4.2,2024-03-03,False
+RIDER0656,Rider_656,Marina (Dubai),Motorcycle,3.8,2023-08-10,True
+RIDER0657,Rider_657,Al Qasimia (Sharjah),Bike,4.4,2023-11-30,True
+RIDER0658,Rider_658,Al Reem (Abu Dhabi),Car,4.5,2024-06-16,True
+RIDER0659,Rider_659,Al Rashidiya (Ajman),Motorcycle,3.5,2023-10-19,True
+RIDER0660,Rider_660,Al Rashidiya (Ajman),Bike,4.1,2024-11-10,True
+RIDER0661,Rider_661,Downtown (Dubai),Car,4.3,2024-03-20,True
+RIDER0662,Rider_662,Yas Island (Abu Dhabi),Motorcycle,4.7,2024-02-20,True
+RIDER0663,Rider_663,JLT (Dubai),Motorcycle,3.7,2024-11-07,True
+RIDER0664,Rider_664,Al Majaz (Sharjah),Motorcycle,4.4,2023-12-19,True
+RIDER0665,Rider_665,JBR (Dubai),Car,3.8,2024-07-29,True
+RIDER0666,Rider_666,Corniche (Abu Dhabi),Bike,4.7,2023-05-30,True
+RIDER0667,Rider_667,Al Majaz (Sharjah),Motorcycle,4.4,2023-05-04,True
+RIDER0668,Rider_668,Deira (Dubai),Motorcycle,4.1,2023-06-02,True
+RIDER0669,Rider_669,Al Majaz (Sharjah),Motorcycle,4.8,2023-10-06,True
+RIDER0670,Rider_670,Marina (Dubai),Motorcycle,4.7,2023-06-18,True
+RIDER0671,Rider_671,Deira (Dubai),Bike,4.5,2024-06-10,True
+RIDER0672,Rider_672,Corniche (Abu Dhabi),Car,4.1,2023-02-26,True
+RIDER0673,Rider_673,Al Majaz (Sharjah),Bike,3.8,2023-03-25,True
+RIDER0674,Rider_674,Al Nuaimiya (Ajman),Motorcycle,4.7,2023-01-27,True
+RIDER0675,Rider_675,JBR (Dubai),Bike,3.6,2024-10-25,True
+RIDER0676,Rider_676,Business Bay (Dubai),Motorcycle,3.6,2023-11-26,True
+RIDER0677,Rider_677,Corniche (Abu Dhabi),Motorcycle,4.8,2024-06-18,True
+RIDER0678,Rider_678,Al Reem (Abu Dhabi),Car,4.5,2024-10-04,True
+RIDER0679,Rider_679,Al Qasimia (Sharjah),Bike,4.5,2023-10-04,True
+RIDER0680,Rider_680,Khalidiya (Abu Dhabi),Motorcycle,4.4,2024-02-05,True
+RIDER0681,Rider_681,Al Qasimia (Sharjah),Car,4.8,2024-02-17,True
+RIDER0682,Rider_682,Corniche (Abu Dhabi),Motorcycle,4.4,2023-12-19,True
+RIDER0683,Rider_683,Al Majaz (Sharjah),Bike,4.8,2024-10-02,True
+RIDER0684,Rider_684,Al Rashidiya (Ajman),Bike,3.6,2023-06-14,True
+RIDER0685,Rider_685,Al Rashidiya (Ajman),Motorcycle,4.7,2023-09-27,True
+RIDER0686,Rider_686,Al Rashidiya (Ajman),Motorcycle,4.3,2023-03-10,False
+RIDER0687,Rider_687,Deira (Dubai),Bike,3.8,2023-05-16,False
+RIDER0688,Rider_688,JLT (Dubai),Bike,4.9,2023-07-27,True
+RIDER0689,Rider_689,Corniche (Abu Dhabi),Bike,4.3,2023-03-23,True
+RIDER0690,Rider_690,Deira (Dubai),Motorcycle,4.8,2023-06-18,True
+RIDER0691,Rider_691,JBR (Dubai),Motorcycle,3.5,2023-04-26,True
+RIDER0692,Rider_692,Corniche (Abu Dhabi),Bike,4.3,2024-11-16,True
+RIDER0693,Rider_693,Khalidiya (Abu Dhabi),Motorcycle,4.4,2023-12-20,True
+RIDER0694,Rider_694,Deira (Dubai),Bike,3.6,2024-11-14,True
+RIDER0695,Rider_695,Business Bay (Dubai),Bike,3.6,2023-06-22,True
+RIDER0696,Rider_696,JLT (Dubai),Bike,4.8,2023-10-29,True
+RIDER0697,Rider_697,Al Nuaimiya (Ajman),Bike,3.9,2023-02-24,True
+RIDER0698,Rider_698,Deira (Dubai),Motorcycle,4.7,2024-02-12,True
+RIDER0699,Rider_699,JBR (Dubai),Car,4.9,2024-05-26,True
+RIDER0700,Rider_700,Downtown (Dubai),Car,3.6,2023-06-15,True
+RIDER0701,Rider_701,Al Rashidiya (Ajman),Motorcycle,4.7,2024-07-03,True
+RIDER0702,Rider_702,JBR (Dubai),Motorcycle,3.9,2024-03-05,True
+RIDER0703,Rider_703,Yas Island (Abu Dhabi),Bike,4.7,2024-12-04,True
+RIDER0704,Rider_704,Deira (Dubai),Motorcycle,4.8,2023-08-26,True
+RIDER0705,Rider_705,Yas Island (Abu Dhabi),Bike,3.7,2024-06-11,True
+RIDER0706,Rider_706,Al Nahda (Sharjah),Car,4.1,2023-12-13,True
+RIDER0707,Rider_707,Al Majaz (Sharjah),Motorcycle,4.6,2024-05-19,True
+RIDER0708,Rider_708,Al Reem (Abu Dhabi),Motorcycle,4.5,2024-02-17,True
+RIDER0709,Rider_709,JBR (Dubai),Motorcycle,4.6,2024-02-17,True
+RIDER0710,Rider_710,Khalidiya (Abu Dhabi),Bike,4.1,2023-05-31,True
+RIDER0711,Rider_711,Marina (Dubai),Bike,3.5,2024-07-07,True
+RIDER0712,Rider_712,Al Nahda (Sharjah),Motorcycle,3.8,2024-10-06,True
+RIDER0713,Rider_713,Al Nahda (Sharjah),Bike,5.0,2024-11-26,True
+RIDER0714,Rider_714,JLT (Dubai),Bike,4.0,2024-04-03,False
+RIDER0715,Rider_715,Al Nahda (Sharjah),Bike,4.4,2023-03-16,True
+RIDER0716,Rider_716,Al Majaz (Sharjah),Car,3.6,2024-08-07,True
+RIDER0717,Rider_717,Al Reem (Abu Dhabi),Bike,4.2,2024-08-31,False
+RIDER0718,Rider_718,Yas Island (Abu Dhabi),Motorcycle,4.7,2023-10-02,True
+RIDER0719,Rider_719,Al Reem (Abu Dhabi),Motorcycle,3.9,2024-07-13,True
+RIDER0720,Rider_720,Downtown (Dubai),Bike,4.9,2023-12-05,True
+RIDER0721,Rider_721,Al Reem (Abu Dhabi),Motorcycle,3.8,2024-07-09,True
+RIDER0722,Rider_722,Al Qasimia (Sharjah),Motorcycle,4.5,2024-06-03,False
+RIDER0723,Rider_723,Al Nahda (Sharjah),Bike,4.8,2023-12-12,True
+RIDER0724,Rider_724,Al Reem (Abu Dhabi),Motorcycle,4.4,2024-10-24,True
+RIDER0725,Rider_725,JLT (Dubai),Motorcycle,4.3,2024-04-13,False
+RIDER0726,Rider_726,Al Majaz (Sharjah),Car,4.5,2024-03-27,True
+RIDER0727,Rider_727,Al Rashidiya (Ajman),Bike,4.8,2024-02-16,True
+RIDER0728,Rider_728,Khalidiya (Abu Dhabi),Bike,4.7,2024-11-03,True
+RIDER0729,Rider_729,Al Rashidiya (Ajman),Motorcycle,3.9,2023-03-21,False
+RIDER0730,Rider_730,JBR (Dubai),Motorcycle,4.5,2024-04-17,True
+RIDER0731,Rider_731,Yas Island (Abu Dhabi),Motorcycle,4.3,2024-09-30,True
+RIDER0732,Rider_732,Corniche (Abu Dhabi),Motorcycle,4.6,2023-06-07,True
+RIDER0733,Rider_733,Downtown (Dubai),Bike,4.4,2024-05-20,False
+RIDER0734,Rider_734,Marina (Dubai),Motorcycle,4.3,2024-11-28,True
+RIDER0735,Rider_735,Corniche (Abu Dhabi),Motorcycle,4.5,2023-09-01,True
+RIDER0736,Rider_736,Al Qasimia (Sharjah),Bike,3.5,2024-01-05,True
+RIDER0737,Rider_737,Corniche (Abu Dhabi),Bike,4.4,2024-12-03,True
+RIDER0738,Rider_738,Marina (Dubai),Bike,3.7,2023-10-14,True
+RIDER0739,Rider_739,Downtown (Dubai),Motorcycle,4.0,2024-01-19,True
+RIDER0740,Rider_740,Downtown (Dubai),Car,4.1,2024-08-30,True
+RIDER0741,Rider_741,Downtown (Dubai),Bike,4.7,2023-10-29,True
+RIDER0742,Rider_742,Deira (Dubai),Motorcycle,3.7,2024-06-29,True
+RIDER0743,Rider_743,Al Nuaimiya (Ajman),Bike,4.1,2023-08-16,True
+RIDER0744,Rider_744,Deira (Dubai),Motorcycle,4.9,2024-08-09,False
+RIDER0745,Rider_745,JLT (Dubai),Motorcycle,3.9,2024-12-01,True
+RIDER0746,Rider_746,JLT (Dubai),Bike,4.6,2024-05-09,True
+RIDER0747,Rider_747,JLT (Dubai),Bike,5.0,2023-06-25,True
+RIDER0748,Rider_748,Al Reem (Abu Dhabi),Bike,4.5,2023-12-18,True
+RIDER0749,Rider_749,Al Majaz (Sharjah),Motorcycle,3.7,2024-05-31,True
+RIDER0750,Rider_750,Al Qasimia (Sharjah),Bike,4.0,2024-10-23,True
+RIDER0751,Rider_751,Business Bay (Dubai),Car,4.9,2024-07-26,True
+RIDER0752,Rider_752,Al Reem (Abu Dhabi),Bike,4.2,2024-11-27,True
+RIDER0753,Rider_753,Business Bay (Dubai),Bike,3.8,2024-10-05,True
+RIDER0754,Rider_754,Al Rashidiya (Ajman),Motorcycle,4.3,2024-08-13,True
+RIDER0755,Rider_755,Al Nuaimiya (Ajman),Bike,4.2,2024-05-10,True
+RIDER0756,Rider_756,Deira (Dubai),Motorcycle,4.6,2024-08-18,True
+RIDER0757,Rider_757,Al Majaz (Sharjah),Bike,4.8,2023-08-04,True
+RIDER0758,Rider_758,JBR (Dubai),Bike,4.2,2023-12-01,True
+RIDER0759,Rider_759,Deira (Dubai),Bike,4.6,2024-01-10,True
+RIDER0760,Rider_760,Deira (Dubai),Motorcycle,4.2,2024-06-21,True
+RIDER0761,Rider_761,Al Majaz (Sharjah),Motorcycle,4.8,2023-02-16,True
+RIDER0762,Rider_762,Al Reem (Abu Dhabi),Bike,4.8,2024-12-14,True
+RIDER0763,Rider_763,Al Majaz (Sharjah),Bike,4.9,2023-03-31,True
+RIDER0764,Rider_764,JLT (Dubai),Bike,4.1,2024-06-25,False
+RIDER0765,Rider_765,JBR (Dubai),Motorcycle,4.3,2024-07-28,True
+RIDER0766,Rider_766,Al Qasimia (Sharjah),Motorcycle,4.6,2023-01-07,True
+RIDER0767,Rider_767,Downtown (Dubai),Bike,4.3,2024-07-25,True
+RIDER0768,Rider_768,JLT (Dubai),Motorcycle,4.8,2023-12-05,True
+RIDER0769,Rider_769,Al Rashidiya (Ajman),Motorcycle,4.1,2023-03-01,False
+RIDER0770,Rider_770,Al Nuaimiya (Ajman),Motorcycle,4.3,2024-04-05,True
+RIDER0771,Rider_771,Business Bay (Dubai),Bike,3.8,2024-05-19,True
+RIDER0772,Rider_772,Yas Island (Abu Dhabi),Bike,4.6,2024-11-16,True
+RIDER0773,Rider_773,Al Nahda (Sharjah),Bike,4.4,2024-01-08,True
+RIDER0774,Rider_774,JLT (Dubai),Motorcycle,4.8,2023-10-22,True
+RIDER0775,Rider_775,Downtown (Dubai),Bike,4.4,2023-05-02,False
+RIDER0776,Rider_776,Al Majaz (Sharjah),Motorcycle,5.0,2023-01-27,True
+RIDER0777,Rider_777,Al Nuaimiya (Ajman),Bike,3.6,2023-06-09,True
+RIDER0778,Rider_778,JLT (Dubai),Motorcycle,4.4,2023-08-26,True
+RIDER0779,Rider_779,Deira (Dubai),Bike,4.8,2023-04-29,True
+RIDER0780,Rider_780,Al Nuaimiya (Ajman),Bike,3.8,2023-11-28,True
+RIDER0781,Rider_781,Marina (Dubai),Motorcycle,4.5,2024-03-11,True
+RIDER0782,Rider_782,Downtown (Dubai),Motorcycle,3.9,2023-10-19,True
+RIDER0783,Rider_783,Yas Island (Abu Dhabi),Motorcycle,4.1,2024-09-26,False
+RIDER0784,Rider_784,Khalidiya (Abu Dhabi),Bike,4.9,2024-12-07,False
+RIDER0785,Rider_785,Deira (Dubai),Motorcycle,4.8,2024-03-27,True
+RIDER0786,Rider_786,Business Bay (Dubai),Motorcycle,3.7,2023-01-07,True
+RIDER0787,Rider_787,Al Nuaimiya (Ajman),Motorcycle,4.6,2023-06-21,False
+RIDER0788,Rider_788,Business Bay (Dubai),Bike,4.9,2024-06-22,True
+RIDER0789,Rider_789,Al Nuaimiya (Ajman),Bike,4.3,2023-04-19,True
+RIDER0790,Rider_790,Deira (Dubai),Motorcycle,3.7,2024-09-13,True
+RIDER0791,Rider_791,Al Nuaimiya (Ajman),Motorcycle,4.4,2024-10-01,True
+RIDER0792,Rider_792,Corniche (Abu Dhabi),Motorcycle,4.8,2024-06-16,True
+RIDER0793,Rider_793,Business Bay (Dubai),Motorcycle,3.8,2024-07-20,True
+RIDER0794,Rider_794,Marina (Dubai),Motorcycle,4.7,2024-02-18,True
+RIDER0795,Rider_795,JBR (Dubai),Motorcycle,3.8,2023-07-05,True
+RIDER0796,Rider_796,Khalidiya (Abu Dhabi),Motorcycle,3.9,2024-01-07,True
+RIDER0797,Rider_797,Business Bay (Dubai),Motorcycle,4.1,2024-08-07,False
+RIDER0798,Rider_798,JLT (Dubai),Bike,3.6,2024-11-16,True
+RIDER0799,Rider_799,Corniche (Abu Dhabi),Motorcycle,4.3,2023-04-15,True
+RIDER0800,Rider_800,Yas Island (Abu Dhabi),Motorcycle,4.6,2023-05-04,True
