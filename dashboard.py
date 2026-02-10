@@ -108,15 +108,44 @@ from pathlib import Path
 # Get the directory where this script is located (works on Streamlit Cloud)
 SCRIPT_DIR = Path(__file__).parent.resolve()
 
+def generate_data_if_missing(data_dir):
+    """Generate synthetic data if data folder doesn't exist"""
+    import sys
+    sys.path.insert(0, str(SCRIPT_DIR))
+    
+    from data_generator import (
+        generate_customers, generate_restaurants, generate_riders,
+        generate_orders, generate_delivery_events, generate_complaints
+    )
+    
+    # Create data directory
+    data_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Generate data
+    customers_df = generate_customers()
+    restaurants_df = generate_restaurants()
+    riders_df = generate_riders()
+    orders_df = generate_orders(customers_df, restaurants_df, riders_df)
+    delivery_events_df = generate_delivery_events(orders_df, restaurants_df)
+    complaints_df = generate_complaints(orders_df)
+    
+    # Save to CSV
+    customers_df.to_csv(data_dir / 'customers.csv', index=False)
+    restaurants_df.to_csv(data_dir / 'restaurants.csv', index=False)
+    riders_df.to_csv(data_dir / 'riders.csv', index=False)
+    orders_df.to_csv(data_dir / 'orders.csv', index=False)
+    delivery_events_df.to_csv(data_dir / 'delivery_events.csv', index=False)
+    complaints_df.to_csv(data_dir / 'complaints.csv', index=False)
+
 @st.cache_data
 def load_data():
-    """Load all data from CSV files"""
+    """Load all data from CSV files, generating if necessary"""
     data_dir = SCRIPT_DIR / "data"
     
-    if not data_dir.exists():
-        st.error(f"Data folder not found at: {data_dir}")
-        st.error("Please make sure the 'data' folder with CSV files is pushed to your GitHub repository.")
-        st.stop()
+    # Generate data if folder doesn't exist
+    if not data_dir.exists() or not (data_dir / 'orders.csv').exists():
+        with st.spinner('Generating data... This may take a moment on first run.'):
+            generate_data_if_missing(data_dir)
     
     data_dir = str(data_dir)
     
